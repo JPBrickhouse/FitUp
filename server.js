@@ -1,5 +1,7 @@
 // Requiring necessary npm packages / dependencies
 var express = require("express");
+const session = require("express-session");
+const passport = require("./config/passport");
 
 // Sets up the Express App
 var app = express();
@@ -27,6 +29,17 @@ app.use(express.static("public"));
 // require("./routes/api-routes.js")(app);
 var routes = require("./routes/handlebars_routes")
 app.use(routes);
+
+// We need to use sessions to keep track of our user's login status
+app.use(
+  session({ secret: "keyboard cat", resave: true, saveUninitialized: true })
+);
+app.use(passport.initialize());
+app.use(passport.session());
+
+// Requiring our routes
+require("./routes/login-routes/loginHbars-routes.js")(app);
+require("./routes/login-routes/api-routes.js")(app);
 
 // Syncing our database and logging a message to the user upon success
 db.sequelize.sync().then(() => {
