@@ -1,10 +1,103 @@
 {{!-- this entire file is html content that will be placed in the body --}}
 
-<h1>Hello world, handlebars style!</h1>
+{{!-- <h1>Lets get fit!</h1>
+<div class="pure-menu pure-menu-horizontal">
+    <a href="#" class="pure-menu-heading pure-menu-link">Home</a>
+    <ul class="pure-menu-list">
+        <li class="pure-menu-item">
+            <a href="#" class="pure-menu-link">Indoor</a>
+        </li>
+        <li class="pure-menu-item">
+            <a href="#" class="pure-menu-link">Outdoor</a>
+        </li>
+    </ul>
+</div>
 
-<img src="img/TennisTemp.png" alt+"Tennis Temporary Pic for Testing" width="400" height="400">
+<img src="img/workout.png" alt+"Tennis Temporary Pic for Testing" width="700" height="400">
+
 
 <h2>Burger Testing</h2>
 {{#each burgers}}
-    <p>{{burger_name}}</p>
-{{/each}}
+<p>{{burger_name}}</p>
+{{/each}} --}}
+
+<div class="header">
+    <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+        <a class="pure-menu-heading" href="">workout</a>
+
+        <ul class="pure-menu-list">
+            <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Home</a></li>
+            <li class="pure-menu-item"><a href="#" class="pure-menu-link">Tour</a></li>
+            <li class="pure-menu-item"><a href="#" class="pure-menu-link">Sign Up</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="splash-container">
+    <div class="splash">
+        <h1 class="splash-head">Lets get healthy</h1>
+        <p class="splash-subhead">
+        </p>
+        <p>
+            <a href="" class="pure-button pure-button-primary">Log in</a>
+        </p>
+    </div>
+</div>
+
+<div class="content-wrapper">
+    <div class="content">
+        <h2 class="content-head is-center"> Select Body Part </h2>
+        <div class="dropdown">
+            <button class="dropbtn">Here</button>
+            <div class="dropdown-content">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="ribbon l-box-lrg pure-g">
+        <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+        </div>
+        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+            <h2 class="content-head content-head-ribbon">Workout List</h2>
+
+            <div>
+                {{!-- linking category --}}
+            </div>
+        </div>
+    </div>
+
+    <div class="ribbons l-box-lrg pure-g">
+        <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+        </div>
+        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+            <h2 class="content-head content-head-ribbon">Save Workout</h2>
+
+            <div>
+                {{!-- linking category --}}
+            </div>
+
+
+        </div>
+    </div>
+    <div class="ribbonbtn l-box-lrg pure-g">
+        <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+        </div>
+        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+            <h2 class="content-head content-head-ribbon">Where would you like to work out?</h2>
+
+            <button class="ibtn" type="button">Indoor</button>
+            <button class="obtn" type="button">Outdoor</button>
+
+        </div>
+    </div>
+
+
+</div>

@@ -27,8 +27,8 @@ app.use(express.static("public"));
 
 // Requiring our routes
 // require("./routes/api-routes.js")(app);
-var routes = require("./routes/handlebars_routes")
-app.use(routes);
+// var routes = require("./routes/handlebars_routes")
+// app.use(routes);
 
 // We need to use sessions to keep track of our user's login status
 app.use(
