@@ -1,10 +1,4 @@
-/* body {
-background-color: blue;
-}
 
-h1 {
-color: red;
-} */
 .dropdownContainer {
 border-radius: 10%;
 border-style: solid;
@@ -97,12 +91,6 @@ border-radius: 5px;
 font-size: 120%;
 }
 
-
-/*
-* -- MENU STYLES --
-* I want to customize how my .pure-menu looks at the top of the page
-*/
-
 .home-menu {
 padding: 0.5em;
 text-align: center;
@@ -138,11 +126,6 @@ border: none;
 color: #AECFE5;
 }
 
-
-/*
-* -- SPLASH STYLES --
-* This is the blue top section that appears on the page.
-*/
 
 .splash-container {
 background: #1f8dd6;
@@ -321,6 +304,56 @@ display: block;
     position: relative;
     min-width: 250px;
 }
+
+ /* Style the header */
+ .header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+    /* Change color on hover */
+    .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+    }
+
+    /* Create three equal columns that floats next to each other */
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 15px;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+    @media screen and (max-width:600px) {
+        .column {
+            width: 100%;
+        }
+    }
 
 /*
  * -- TABLET (AND UP) MEDIA QUERIES --
