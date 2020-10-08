@@ -221,8 +221,13 @@ color: black;
 }
 
 .ribbonbtn {
-background: rgb(147, 157, 177);
-color: black;
+    background: rgb(147, 157, 177);
+    color: black;
+}
+
+.first {
+    background: #17416f;
+    color: #aaa;
 }
 
 /* This is the class used for the footer */
@@ -304,9 +309,37 @@ display: block;
     position: relative;
     min-width: 250px;
 }
+.sbtn{
+    font-family: Hack, monospace;
+    background: #ebe7d9;
+    color: #2c2c2c;
+    cursor: pointer;
+    font-size: 2em;
+    padding: 1.5rem;
+    border: 0;
+    transition: all 0.5s;
+    border-radius: 10px;
+    width: auto;
+    position: relative;
+    min-width: 250px;
+}
+.nbtn{
+    font-family: Hack, monospace;
+    background: #ebe7d9;
+    color: #2c2c2c;
+    cursor: pointer;
+    font-size: 2em;
+    padding: 1.5rem;
+    border: 0;
+    transition: all 0.5s;
+    border-radius: 10px;
+    width: auto;
+    position: relative;
+    min-width: 250px;
+}
 
- /* Style the header */
- .header {
+/* Style the header */
+.header {
     background-color: #f1f1f1;
     padding: 20px;
     text-align: center;
