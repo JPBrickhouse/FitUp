@@ -1,14 +1,14 @@
 {
   "development": {
     "username": "root",
-    "password": "Dinosql4",
+    "password": null,
     "database": "project_two_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "Dinosql4",
+    "password": null,
     "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
