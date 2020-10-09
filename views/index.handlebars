@@ -76,9 +76,35 @@
 
         {{!-- Div where the map file lives --}}
         <div>
-            {{!-- Create a handlebars partial --}}
-            {{!-- Have it show automatically, and then we can hide / show it later --}}
-        </div>
+<iframe 
+    width="600"
+    height="450"
+    frameborder="0" style="border:0"
+    id="map" src="https://www.google.com/maps/embed/v1/search?key=AIzaSyD1Wx0AzarWpSRLqXq7wl_tN9VIOlyvNyQ&q=gym" width = >
+</iframe>
+
+<input type="button" value="Indoor" onClick="indoor()" />
+<input type="button" value="Outdoor" onClick="outdoor()" />
+
+<script type="text/javascript">
+  var isIndoor  = true;
+
+  function indoor() {
+      if (!isIndoor) {
+        document.getElementById('map').src = "https://www.google.com/maps/embed/v1/search?key=AIzaSyD1Wx0AzarWpSRLqXq7wl_tN9VIOlyvNyQ&q=gym";
+        isIndoor = true;
+      }
+  }    
+
+  function outdoor() {
+      if (isIndoor) {
+        document.getElementById('map').src = "https://www.google.com/maps/embed/v1/search?key=AIzaSyD1Wx0AzarWpSRLqXq7wl_tN9VIOlyvNyQ&q=park";
+        isIndoor = false;
+      }
+  } 
+  
+    </script>
+    </div>
 
 
     </div>
