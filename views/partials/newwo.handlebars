@@ -1,36 +1,91 @@
-<div class="header">
-    <h1>Header</h1>
-    <p>Resize the browser window to see the responsive effect.</p>
+<div class="ribbonbtn l-box-lrg pure-g">
+    <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+    </div>
+    <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+        <h2 class="content-head content-head-ribbon">Where would you like to work out?</h2>
+
+        <select id="indoorOutdoorSelect">
+            <option selected="true" disabled="disabled">Select Here</option>
+            <option value="indoor">indoor</option>
+            <option value="outdoor">outdoor</option>
+        </select>
+
+    </div>
 </div>
 
-<div class="topnav">
-    <a href="#">Link</a>
-    <a href="#">Link</a>
-    <a href="#">Link</a>
+<div class="content">
+    <h2 class="content-head is-center"> Select Category </h2>
+
+    <form>
+        <select id="categorySelect">
+            <option selected="true" disabled="disabled">Select Here</option>
+            <option value="abdominals">abdominals</option>
+            <option value="abductors">abductors</option>
+            <option value="adductors">adductors</option>
+            <option value="biceps">biceps</option>
+            <option value="calves">calves</option>
+            <option value="chest">chest</option>
+            <option value="forearms">forearms</option>
+            <option value="glutes">glutes</option>
+            <option value="hamstrings">hamstrings</option>
+            <option value="lats">lats</option>
+            <option value="lower back">lower back</option>
+            <option value="middle back">middle back</option>
+            <option value="neck">neck</option>
+            <option value="quadriceps">quadriceps</option>
+            <option value="shoulders">shoulders</option>
+            <option value="stationary">stationary</option>
+            <option value="traps">traps</option>
+            <option value="treadmill">treadmill</option>
+            <option value="triceps">triceps</option>
+        </select>
+    </form>
+
+
+
 </div>
 
-<div class="row">
-    <div class="column">
-        <h2>Column</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus
-            venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget
-            aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor
-            sed accumsan convallis.</p>
-    </div>
 
-    <div class="column">
-        <h2>Column</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus
-            venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget
-            aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor
-            sed accumsan convallis.</p>
-    </div>
 
-    <div class="column">
-        <h2>Column</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus
-            venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget
-            aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor
-            sed accumsan convallis.</p>
+
+
+<div class="ribbon l-box-lrg pure-g">
+    <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+    </div>
+    <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+        <h2 class="content-head content-head-ribbon">Exercises to choose from!</h2>
+
+        <div>
+            {{!-- linking category --}}
+
+
+            {{!-- PLACE WHERE THE RANDOM EXERCISES GET DISPLAYED --}}
+            {{!-- Each exercise will have a save button --}}
+
+
+        </div>
+    </div>
+</div>
+
+<div class="ribbons l-box-lrg pure-g">
+    <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+    </div>
+    <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+        <h2 class="content-head content-head-ribbon">FULL Workout</h2>
+
+        <div>
+            {{!-- linking category --}}
+
+
+            {{!-- WHEN an exercises is saved, it gets displayed here with all the others --}}
+
+
+
+        </div>
+
+
     </div>
 </div>
