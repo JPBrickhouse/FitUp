@@ -64,63 +64,21 @@
             </div>
         </div>
 
-        <div class="ribbonbtn l-box-lrg pure-g">
-            <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
-            </div>
-            <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
-
-                <h2 class="content-head content-head-ribbon">Where would you like to work out?</h2>
-
-                <button class="ibtn" type="button">Indoor</button>
-                <button class="obtn" type="button">Outdoor</button>
-
-            </div>
+        {{!-- Div that hides/shows the content for the new workout handlebars partial --}}
+        <div class="workoutDiv" id="newWorkoutDiv" data-show="0" style="display: none">
+            {{> newwo}}
         </div>
 
-        <div class="content">
-            <h2 class="content-head is-center"> Select Category </h2>
-            <div class="dropdown">
-                <button class="dropbtn">Here</button>
-                <div class="dropdown-content">
-                    <a href="#">Link 1</a>
-                    <a href="#">Link 2</a>
-                    <a href="#">Link 3</a>
-                </div>
-            </div>
+        {{!-- Div that hides/shows the content for the saved workout handlebars partial --}}
+        <div class="workoutDiv" id="savedWorkoutDiv" data-show="0" style="display: none">
+            {{> savedwo}}
         </div>
 
-
-
-
-
-        <div class="ribbon l-box-lrg pure-g">
-            <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
-            </div>
-            <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
-
-                <h2 class="content-head content-head-ribbon">Workout List</h2>
-
-                <div>
-                    {{!-- linking category --}}
-                </div>
-            </div>
+        {{!-- Div where the map file lives --}}
+        <div>
+            {{!-- Create a handlebars partial --}}
+            {{!-- Have it show automatically, and then we can hide / show it later --}}
         </div>
-
-        <div class="ribbons l-box-lrg pure-g">
-            <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
-            </div>
-            <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
-
-                <h2 class="content-head content-head-ribbon">Save Workout</h2>
-
-                <div>
-                    {{!-- linking category --}}
-                </div>
-
-
-            </div>
-        </div>
-
 
 
     </div>
