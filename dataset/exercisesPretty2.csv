@@ -1,0 +1,900 @@
+id,location,category,exercise
+0,indoor,abdominals,ab crunch machine
+1,indoor,abdominals,ab roller
+2,both,adductors,adductor
+3,both,adductors,adductor/groin
+4,indoor,abdominals,advanced kettlebell windmill
+5,both,abdominals,air bike
+6,both,quadriceps,all fours quad stretch
+7,both,biceps,alternate hammer curl
+8,both,abdominals,alternate heel touchers
+9,indoor,biceps,alternate incline dumbbell curl
+10,outdoor,quadriceps,alternate leg diagonal bound
+11,indoor,shoulders,alternating cable shoulder press
+12,indoor,shoulders,alternating deltoid raise
+13,indoor,chest,alternating floor press
+14,indoor,hamstrings,alternating hang clean
+15,indoor,shoulders,alternating kettlebell press
+16,indoor,middle back,alternating kettlebell row
+17,indoor,middle back,alternating renegade row
+18,both,calves,ankle circles
+19,both,glutes,ankle on the knee
+20,both,calves,anterior tibialis-smr
+21,indoor,shoulders,anti-gravity press
+22,both,shoulders,arm circles
+23,indoor,shoulders,arnold dumbbell press
+24,indoor,chest,around the worlds
+25,indoor,lower back,atlas stone trainer
+26,indoor,lower back,atlas stones
+27,indoor,lower back,axle deadlift
+28,indoor,abdominals,ab crunch machine
+29,indoor,abdominals,ab roller
+30,both,adductors,adductor
+31,both,adductors,adductor/groin
+32,indoor,abdominals,advanced kettlebell windmill
+33,both,abdominals,air bike
+34,both,quadriceps,all fours quad stretch
+35,indoor,biceps,alternate hammer curl
+36,both,abdominals,alternate heel touchers
+37,indoor,biceps,alternate incline dumbbell curl
+38,outdoor,quadriceps,alternate leg diagonal bound
+39,indoor,shoulders,alternating cable shoulder press
+40,indoor,shoulders,alternating deltoid raise
+41,indoor,chest,alternating floor press
+42,indoor,hamstrings,alternating hang clean
+43,indoor,shoulders,alternating kettlebell press
+44,indoor,middle back,alternating kettlebell row
+45,indoor,middle back,alternating renegade row
+46,both,calves,ankle circles
+47,both,glutes,ankle on the knee
+48,both,calves,anterior tibialis-smr
+49,indoor,shoulders,anti-gravity press
+50,both,shoulders,arm circles
+51,indoor,shoulders,arnold dumbbell press
+52,indoor,chest,around the worlds
+53,indoor,lower back,atlas stone trainer
+54,indoor,lower back,atlas stones
+55,indoor,lower back,axle deadlift
+56,indoor,shoulders,back flyes - with bands
+57,outdoor,quadriceps,backward drag
+58,indoor,shoulders,backward medicine ball throw
+59,indoor,calves,balance board
+60,indoor,hamstrings,ball leg curl
+61,indoor,lats,band assisted pull-up
+62,indoor,hamstrings,band good morning
+63,indoor,hamstrings,band good morning (pull through)
+64,indoor,adductors,band hip adductions
+65,indoor,shoulders,band pull apart
+66,indoor,triceps,band skull crusher
+67,indoor,abdominals,barbell ab rollout
+68,indoor,abdominals,barbell ab rollout - on knees
+69,indoor,chest,barbell bench press - medium grip
+70,indoor,biceps,barbell curl
+71,indoor,biceps,barbell curls lying against an incline
+72,indoor,lower back,barbell deadlift
+73,indoor,quadriceps,barbell full squat
+74,indoor,glutes,barbell glute bridge
+75,indoor,chest,barbell guillotine bench press
+76,indoor,quadriceps,barbell hack squat
+77,indoor,glutes,barbell hip thrust
+78,indoor,chest,barbell incline bench press - medium grip
+79,indoor,shoulders,barbell incline shoulder raise
+80,indoor,quadriceps,barbell lunge
+81,indoor,shoulders,barbell rear delt row
+82,indoor,abdominals,barbell rollout from bench
+83,indoor,calves,barbell seated calf raise
+84,indoor,shoulders,barbell shoulder press
+85,indoor,traps,barbell shrug
+86,indoor,traps,barbell shrug behind the back
+87,indoor,abdominals,barbell side bend
+88,indoor,quadriceps,barbell side split squat
+89,indoor,quadriceps,barbell squat
+90,indoor,quadriceps,barbell squat to a bench
+91,indoor,quadriceps,barbell step ups
+92,indoor,quadriceps,barbell walking lunge
+93,indoor,shoulders,battling ropes
+94,indoor,quadriceps,bear crawl sled drags
+95,both,chest,behind head chest stretch
+96,indoor,triceps,bench dips
+97,indoor,quadriceps,bench jump
+98,indoor,triceps,bench press - powerlifting
+99,indoor,chest,bench press - with bands
+100,indoor,triceps,bench press with chains
+101,indoor,quadriceps,bench sprint
+102,indoor,middle back,bent over barbell row
+103,indoor,shoulders,bent over dumbbell rear delt raise with head on bench
+104,indoor,shoulders,bent over low-pulley side lateral
+105,indoor,middle back,bent over one-arm long bar row
+106,indoor,middle back,bent over two-arm long bar row
+107,indoor,middle back,bent over two-dumbbell row
+108,indoor,middle back,bent over two-dumbbell row with palms in
+109,indoor,abdominals,bent press
+110,indoor,lats,bent-arm barbell pullover
+111,indoor,chest,bent-arm dumbbell pullover
+112,both,abdominals,bent-knee hip raise
+113,outdoor,quadriceps,bicycling
+114,indoor,stationary,bicycling
+115,indoor,triceps,board press
+116,indoor,triceps,body tricep press
+117,both,triceps,body-up
+118,indoor,chest,bodyweight flyes
+119,indoor,middle back,bodyweight mid row
+120,both,quadriceps,bodyweight squat
+121,both,quadriceps,bodyweight walking lunge
+122,indoor,abdominals,bosu ball cable crunch with side bends
+123,both,abdominals,bottoms up
+124,indoor,forearms,bottoms-up clean from the hang position
+125,indoor,hamstrings,box jump (multiple response)
+126,indoor,hamstrings,box skip
+127,indoor,quadriceps,box squat
+128,indoor,quadriceps,box squat with bands
+129,indoor,quadriceps,box squat with chains
+130,indoor,biceps,brachialis-smr
+131,indoor,shoulders,bradford/rocky presses
+132,both,glutes,butt lift (bridge)
+133,both,abdominals,butt-ups
+134,indoor,chest,butterfly
+135,indoor,chest,cable chest press
+136,indoor,chest,cable crossover
+137,indoor,abdominals,cable crunch
+138,indoor,quadriceps,cable deadlifts
+139,indoor,biceps,cable hammer curls - rope attachment
+140,indoor,quadriceps,cable hip adduction
+141,indoor,lats,cable incline pushdown
+142,indoor,triceps,cable incline triceps extension
+143,indoor,shoulders,cable internal rotation
+144,indoor,chest,cable iron cross
+145,indoor,abdominals,cable judo flip
+146,indoor,triceps,cable lying triceps extension
+147,indoor,triceps,cable one arm tricep extension
+148,indoor,biceps,cable preacher curl
+149,indoor,shoulders,cable rear delt fly
+150,indoor,abdominals,cable reverse crunch
+151,indoor,triceps,cable rope overhead triceps extension
+152,indoor,shoulders,cable rope rear-delt rows
+153,indoor,abdominals,cable russian twists
+154,indoor,abdominals,cable seated crunch
+155,indoor,shoulders,cable seated lateral raise
+156,indoor,shoulders,cable shoulder press
+157,indoor,traps,cable shrugs
+158,indoor,abdominals,cable tuck reverse crunch
+159,indoor,forearms,cable wrist curl
+160,indoor,calves,calf press
+161,indoor,calves,calf press on the leg press machine
+162,indoor,calves,calf raise on a dumbbell
+163,indoor,calves,calf raises - with bands
+164,indoor,calves,calf stretch elbows against wall
+165,indoor,calves,calf stretch hands against wall
+166,indoor,traps,calf-machine shoulder shrug
+167,indoor,calves,calves-smr
+168,outdoor,quadriceps,car deadlift
+169,indoor,shoulders,car drivers
+170,outdoor,adductors,carioca quick step
+171,both,lower back,cat stretch
+172,indoor,lats,catch and overhead throw
+173,indoor,triceps,chain handle extension
+174,indoor,chest,chain press
+175,indoor,hamstrings,chair leg extended stretch
+176,indoor,lats,chair lower back stretch
+177,indoor,quadriceps,chair squat
+178,indoor,shoulders,chair upper body stretch
+179,indoor,chest,chest and front of shoulder stretch
+180,indoor,chest,chest push (multiple response)
+181,indoor,chest,chest push (single response)
+182,indoor,chest,chest push from 3 point stance
+183,indoor,chest,chest push with run release
+184,indoor,chest,chest stretch on stability ball
+185,both,lower back,child's pose
+186,both,neck,chin to chest stretch
+187,indoor,lats,chin-up
+188,indoor,shoulders,circus bell
+189,indoor,hamstrings,clean
+190,indoor,shoulders,clean and jerk
+191,indoor,shoulders,clean and press
+192,indoor,hamstrings,clean deadlift
+193,indoor,quadriceps,clean from blocks
+194,indoor,quadriceps,clean pull
+195,indoor,traps,clean shrug
+196,both,chest,clock push-up
+197,indoor,triceps,close-grip barbell bench press
+198,indoor,triceps,close-grip dumbbell press
+199,indoor,biceps,close-grip ez bar curl
+200,indoor,biceps,close-grip ez-bar curl with band
+201,indoor,triceps,close-grip ez-bar press
+202,indoor,lats,close-grip front lat pulldown
+203,indoor,triceps,close-grip push-up off of a dumbbell
+204,indoor,biceps,close-grip standing barbell curl
+205,both,abdominals,cocoons
+206,outdoor,quadriceps,conan's wheel
+207,indoor,biceps,concentration curls
+208,indoor,biceps,cross body hammer curl
+209,indoor,chest,cross over - with bands
+210,both,abdominals,cross-body crunch
+211,both,lower back,crossover reverse lunge
+212,both,shoulders,crucifix
+213,indoor,abdominals,crunch - hands overhead
+214,both,abdominals,crunch - legs on exercise ball
+215,both,abdominals,crunches
+216,indoor,shoulders,cuban press
+217,both,lower back,dancer's stretch
+218,indoor,lower back,deadlift with bands
+219,indoor,lower back,deadlift with chains
+220,indoor,chest,decline barbell bench press
+221,indoor,triceps,decline close-grip bench to skull crusher
+222,indoor,abdominals,decline crunch
+223,indoor,chest,decline dumbbell bench press
+224,indoor,chest,decline dumbbell flyes
+225,indoor,triceps,decline dumbbell triceps extension
+226,indoor,triceps,decline ez bar triceps extension
+227,indoor,abdominals,decline oblique crunch
+228,indoor,chest,decline push-up
+229,indoor,abdominals,decline reverse crunch
+230,indoor,chest,decline smith press
+231,indoor,lower back,deficit deadlift
+232,indoor,quadriceps,depth jump leap
+233,indoor,triceps,dip machine
+234,indoor,chest,dips - chest version
+235,indoor,triceps,dips - triceps version
+236,both,calves,donkey calf raises
+237,indoor,hamstrings,double kettlebell alternating hang clean
+238,indoor,shoulders,double kettlebell jerk
+239,indoor,shoulders,double kettlebell push press
+240,indoor,shoulders,double kettlebell snatch
+241,indoor,abdominals,double kettlebell windmill
+242,both,quadriceps,double leg butt kick
+243,indoor,glutes,downward facing balance
+244,indoor,biceps,drag curl
+245,both,chest,drop push
+246,indoor,biceps,dumbbell alternate bicep curl
+247,indoor,chest,dumbbell bench press
+248,indoor,chest,dumbbell bench press with neutral grip
+249,indoor,biceps,dumbbell bicep curl
+250,indoor,hamstrings,dumbbell clean
+251,indoor,triceps,dumbbell floor press
+252,indoor,chest,dumbbell flyes
+253,indoor,middle back,dumbbell incline row
+254,indoor,shoulders,dumbbell incline shoulder raise
+255,indoor,quadriceps,dumbbell lunges
+256,indoor,shoulders,dumbbell lying one-arm rear lateral raise
+257,indoor,forearms,dumbbell lying pronation
+258,indoor,shoulders,dumbbell lying rear lateral raise
+259,indoor,forearms,dumbbell lying supination
+260,indoor,shoulders,dumbbell one-arm shoulder press
+261,indoor,triceps,dumbbell one-arm triceps extension
+262,indoor,shoulders,dumbbell one-arm upright row
+263,indoor,biceps,dumbbell prone incline curl
+264,indoor,shoulders,dumbbell raise
+265,indoor,quadriceps,dumbbell rear lunge
+266,indoor,shoulders,dumbbell scaption
+267,indoor,quadriceps,dumbbell seated box jump
+268,indoor,calves,dumbbell seated one-leg calf raise
+269,indoor,shoulders,dumbbell shoulder press
+270,indoor,traps,dumbbell shrug
+271,indoor,abdominals,dumbbell side bend
+272,indoor,quadriceps,dumbbell squat
+273,indoor,quadriceps,dumbbell squat to a bench
+274,indoor,quadriceps,dumbbell step ups
+275,indoor,triceps,dumbbell tricep extension -pronated grip
+276,both,lats,dynamic back stretch
+277,both,chest,dynamic chest stretch
+278,both,shoulders,elbow circles
+279,both,abdominals,elbow to knee
+280,both,chest,elbows back
+281,both,quadriceps,elevated back lunge
+282,indoor,lats,elevated cable rows
+283,indoor,quadriceps,elliptical trainer
+284,indoor,abdominals,exercise ball crunch
+285,indoor,abdominals,exercise ball pull-in
+286,indoor,chest,extended range one-arm kettlebell floor press
+287,both,shoulders,external rotation
+288,indoor,shoulders,external rotation with band
+289,indoor,shoulders,external rotation with cable
+290,indoor,biceps,ez-bar curl
+291,indoor,triceps,ez-bar skullcrusher
+292,indoor,shoulders,face pull
+293,indoor,forearms,farmer's walk
+294,outdoor,quadriceps,fast skipping
+295,indoor,forearms,finger curls
+296,indoor,chest,flat bench cable flyes
+297,indoor,abdominals,flat bench leg pull-in
+298,indoor,abdominals,flat bench lying leg raise
+299,indoor,biceps,flexor incline dumbbell curls
+300,indoor,hamstrings,floor glute-ham raise
+301,indoor,triceps,floor press
+302,indoor,triceps,floor press with chains
+303,both,glutes,flutter kicks
+304,both,calves,foot-smr
+305,indoor,chest,forward drag with press
+306,indoor,quadriceps,frankenstein squat
+307,both,quadriceps,freehand jump squat
+308,both,quadriceps,frog hops
+309,both,abdominals,frog sit-ups
+310,indoor,quadriceps,front barbell squat
+311,indoor,quadriceps,front barbell squat to a bench
+312,indoor,hamstrings,front box jump
+313,indoor,shoulders,front cable raise
+314,outdoor,quadriceps,front cone hops (or hurdle hops)
+315,indoor,shoulders,front dumbbell raise
+316,indoor,shoulders,front incline dumbbell raise
+317,both,hamstrings,front leg raises
+318,indoor,shoulders,front plate raise
+319,indoor,chest,front raise and pullover
+320,indoor,quadriceps,front squat (clean grip)
+321,indoor,quadriceps,front squats with two kettlebells
+322,indoor,shoulders,front two-dumbbell raise
+323,indoor,lats,full range-of-motion lat pulldown
+324,indoor,lats,gironda sternum chins
+325,indoor,hamstrings,glute ham raise
+326,indoor,glutes,glute kickback
+327,indoor,quadriceps,goblet squat
+328,indoor,hamstrings,good morning
+329,indoor,hamstrings,good morning off pins
+330,indoor,abdominals,gorilla chin/crunch
+331,both,adductors,groin and back stretch
+332,both,adductors,groiners
+333,indoor,quadriceps,hack squat
+334,indoor,biceps,hammer curls
+335,indoor,chest,hammer grip incline db bench press
+336,both,hamstrings,hamstring stretch
+337,both,hamstrings,hamstring-smr
+338,both,shoulders,handstand push-ups
+339,indoor,quadriceps,hang clean
+340,indoor,quadriceps,hang clean - below the knees
+341,indoor,hamstrings,hang snatch
+342,indoor,hamstrings,hang snatch - below knees
+343,indoor,hamstrings,hanging bar good morning
+344,indoor,abdominals,hanging leg raise
+345,indoor,abdominals,hanging pike
+346,indoor,quadriceps,heaving snatch balance
+347,indoor,chest,heavy bag thrust
+348,indoor,biceps,high cable curls
+349,both,abductors,hip circles (prone)
+350,both,abductors,"hip crossover,"
+351,indoor,glutes,hip extension with bands
+352,indoor,quadriceps,hip flexion with band
+353,indoor,glutes,hip lift with band
+354,indoor,lower back,hug a ball
+355,both,lower back,hug knees to chest
+356,outdoor,hamstrings,hurdle hops
+357,both,lower back,hyperextensions (back extensions)
+358,both,lower back,hyperextensions with no hyperextension bench
+359,both,abductors,iliotibial tract-smr
+360,indoor,triceps,incline barbell triceps extension
+361,indoor,middle back,incline bench pull
+362,indoor,chest,incline cable chest press
+363,indoor,chest,incline cable flye
+364,indoor,chest,incline dumbbell bench with palms facing in
+365,indoor,biceps,incline dumbbell curl
+366,indoor,chest,incline dumbbell flyes
+367,indoor,chest,incline dumbbell flyes - with a twist
+368,indoor,chest,incline dumbbell press
+369,indoor,biceps,incline hammer curls
+370,indoor,biceps,incline inner biceps curl
+371,indoor,chest,incline push-up
+372,indoor,triceps,incline push-up close-grip
+373,indoor,chest,incline push-up depth jump
+374,indoor,chest,incline push-up medium
+375,indoor,chest,incline push-up reverse grip
+376,indoor,chest,incline push-up wide
+377,both,hamstrings,intermediate groin stretch
+378,both,quadriceps,intermediate hip flexor and quad stretch
+379,indoor,shoulders,internal rotation with band
+380,indoor,middle back,inverted row
+381,indoor,middle back,inverted row with straps
+382,indoor,shoulders,iron cross
+383,indoor,quadriceps,iron crosses (stretch)
+384,both,chest,isometric chest squeezes
+385,both,neck,isometric neck exercise - front and back
+386,both,neck,isometric neck exercise - sides
+387,both,chest,isometric wipers
+388,indoor,abductors,it band and glute stretch
+389,both,abdominals,jackknife sit-up
+390,both,abdominals,janda sit-up
+391,indoor,quadriceps,jefferson squats
+392,indoor,shoulders,jerk balance
+393,indoor,quadriceps,jerk dip squat
+394,indoor,triceps,jm press
+395,indoor,quadriceps,jogging-treadmill
+396,indoor,lower back,keg load
+397,indoor,shoulders,kettlebell arnold press
+398,indoor,hamstrings,kettlebell dead clean
+399,indoor,abdominals,kettlebell figure 8
+400,indoor,hamstrings,kettlebell hang clean
+401,indoor,hamstrings,kettlebell one-legged deadlift
+402,indoor,abdominals,kettlebell pass between the legs
+403,indoor,shoulders,kettlebell pirate ships
+404,indoor,quadriceps,kettlebell pistol squat
+405,indoor,shoulders,kettlebell seated press
+406,indoor,shoulders,kettlebell seesaw press
+407,indoor,traps,kettlebell sumo high pull
+408,indoor,shoulders,kettlebell thruster
+409,indoor,shoulders,kettlebell turkish get-up (lunge style)
+410,indoor,shoulders,kettlebell turkish get-up (squat style)
+411,indoor,abdominals,kettlebell windmill
+412,indoor,lats,kipping muscle up
+413,both,glutes,knee across the body
+414,both,calves,knee circles
+415,outdoor,hamstrings,knee tuck jump
+416,indoor,abdominals,knee/hip raise on parallel bars
+417,both,shoulders,kneeling arm drill
+418,indoor,abdominals,kneeling cable crunch with alternating oblique twists
+419,indoor,triceps,kneeling cable triceps extension
+420,both,forearms,kneeling forearm stretch
+421,indoor,lats,kneeling high pulley row
+422,both,quadriceps,kneeling hip flexor
+423,both,glutes,kneeling jump squat
+424,indoor,lats,kneeling single-arm high pulley row
+425,both,glutes,kneeling squat
+426,indoor,abdominals,landmine 180's
+427,indoor,shoulders,landmine linear jammer
+428,outdoor,adductors,lateral bound
+429,indoor,adductors,lateral box jump
+430,outdoor,adductors,lateral cone hops
+431,indoor,shoulders,lateral raise - with bands
+432,both,lats,latissimus dorsi-smr
+433,both,quadriceps,leg extensions
+434,both,glutes,leg lift
+435,indoor,quadriceps,leg press
+436,both,abdominals,leg pull-in
+437,indoor,chest,leg-over floor press
+438,both,hamstrings,leg-up hamstring stretch
+439,indoor,chest,leverage chest press
+440,indoor,quadriceps,leverage deadlift
+441,indoor,chest,leverage decline chest press
+442,indoor,middle back,leverage high row
+443,indoor,chest,leverage incline chest press
+444,indoor,lats,leverage iso row
+445,indoor,shoulders,leverage shoulder press
+446,indoor,traps,leverage shrug
+447,outdoor,hamstrings,linear 3-part start technique
+448,indoor,hamstrings,linear acceleration wall drill
+449,indoor,quadriceps,linear depth jump
+450,outdoor,shoulders,log lift
+451,both,lats,london bridges
+452,both,quadriceps,looking at ceiling
+453,indoor,chest,low cable crossover
+454,indoor,triceps,low cable triceps extension
+455,indoor,shoulders,low pulley row to neck
+456,indoor,abdominals,lower back curl
+457,both,lower back,lower back-smr
+458,indoor,hamstrings,lunge pass through
+459,outdoor,quadriceps,lunge sprint
+460,both,adductors,lying bent leg groin
+461,indoor,biceps,lying cable curl
+462,indoor,middle back,lying cambered barbell row
+463,indoor,biceps,lying close-grip bar curl on high pulley
+464,indoor,triceps,lying close-grip barbell triceps extension behind the head
+465,indoor,triceps,lying close-grip barbell triceps press to chin
+466,indoor,abductors,lying crossover
+467,indoor,triceps,lying dumbbell tricep extension
+468,indoor,neck,lying face down plate neck resistance
+469,indoor,neck,lying face up plate neck resistance
+470,both,glutes,lying glute
+471,both,hamstrings,lying hamstring
+472,indoor,biceps,lying high bench barbell curl
+473,indoor,hamstrings,lying leg curls
+474,indoor,quadriceps,lying machine squat
+475,indoor,shoulders,lying one-arm lateral raise
+476,indoor,quadriceps,lying prone quadriceps
+477,indoor,shoulders,lying rear delt raise
+478,indoor,biceps,lying supine dumbbell curl
+479,indoor,middle back,lying t-bar row
+480,indoor,triceps,lying triceps press
+481,indoor,chest,machine bench press
+482,indoor,biceps,machine bicep curl
+483,indoor,biceps,machine preacher curls
+484,indoor,shoulders,machine shoulder (military) press
+485,indoor,triceps,machine triceps extension
+486,indoor,chest,medicine ball chest pass
+487,indoor,abdominals,medicine ball full twist
+488,indoor,shoulders,medicine ball scoop throw
+489,both,middle back,middle back shrug
+490,both,middle back,middle back stretch
+491,indoor,middle back,mixed grip chin
+492,both,abductors,monster walk
+493,both,quadriceps,mountain climbers
+494,outdoor,hamstrings,moving claw series
+495,indoor,hamstrings,muscle snatch
+496,indoor,lats,muscle up
+497,indoor,quadriceps,narrow stance hack squats
+498,indoor,quadriceps,narrow stance leg press
+499,indoor,quadriceps,narrow stance squats
+500,indoor,hamstrings,natural glute ham raise
+501,indoor,chest,neck press
+502,both,neck,neck-smr
+503,both,abdominals,oblique crunches
+504,both,abdominals,oblique crunches - on the floor
+505,indoor,quadriceps,olympic squat
+506,both,quadriceps,on your side quad stretch
+507,both,quadriceps,on-your-back quad stretch
+508,indoor,lats,one arm against wall
+509,indoor,middle back,one arm chin-up
+510,indoor,chest,one arm dumbbell bench press
+511,indoor,biceps,one arm dumbbell preacher curl
+512,indoor,triceps,one arm floor press
+513,indoor,lats,one arm lat pulldown
+514,indoor,triceps,one arm pronated dumbbell triceps extension
+515,indoor,triceps,one arm supinated dumbbell triceps extension
+516,both,quadriceps,one half locust
+517,indoor,lats,one handed hang
+518,both,glutes,one knee to chest
+519,indoor,quadriceps,one leg barbell squat
+520,indoor,middle back,one-arm dumbbell row
+521,indoor,chest,one-arm flat bench dumbbell flye
+522,indoor,abdominals,one-arm high-pulley cable side bends
+523,indoor,shoulders,one-arm incline lateral raise
+524,indoor,hamstrings,one-arm kettlebell clean
+525,indoor,shoulders,one-arm kettlebell clean and jerk
+526,indoor,chest,one-arm kettlebell floor press
+527,indoor,shoulders,one-arm kettlebell jerk
+528,indoor,shoulders,one-arm kettlebell military press to the side
+529,indoor,shoulders,one-arm kettlebell para press
+530,indoor,shoulders,one-arm kettlebell push press
+531,indoor,middle back,one-arm kettlebell row
+532,indoor,shoulders,one-arm kettlebell snatch
+533,indoor,shoulders,one-arm kettlebell split jerk
+534,indoor,shoulders,one-arm kettlebell split snatch
+535,indoor,hamstrings,one-arm kettlebell swings
+536,indoor,middle back,one-arm long bar row
+537,indoor,abdominals,one-arm medicine ball slam
+538,indoor,hamstrings,one-arm open palm kettlebell clean
+539,indoor,quadriceps,one-arm overhead kettlebell squats
+540,indoor,quadriceps,one-arm side deadlift
+541,indoor,shoulders,one-arm side laterals
+542,indoor,glutes,one-legged cable kickback
+543,indoor,hamstrings,open palm kettlebell clean
+544,indoor,abdominals,otis-up
+545,indoor,biceps,overhead cable curl
+546,indoor,lats,overhead lat
+547,indoor,lats,overhead slam
+548,indoor,quadriceps,overhead squat
+549,both,abdominals,overhead stretch
+550,both,triceps,overhead triceps
+551,indoor,abdominals,pallof press with rotation
+552,indoor,forearms,palms-down dumbbell wrist curl over a bench
+553,indoor,forearms,palms-down wrist curl over a bench
+554,indoor,forearms,palms-up barbell wrist curl over a bench
+555,indoor,forearms,palms-up dumbbell wrist curl over a bench
+556,indoor,triceps,parallel bar dip
+557,both,lower back,pelvic tilt into bridge
+558,both,calves,peroneals stretch
+559,both,calves,peroneals-smr
+560,indoor,glutes,physioball hip bridge
+561,indoor,triceps,pin presses
+562,both,glutes,piriformis-smr
+563,both,abdominals,plank
+564,both,abdominals,plank with twist
+565,indoor,forearms,plate pinch
+566,indoor,abdominals,plate twist
+567,both,hamstrings,platform hamstring slides
+568,indoor,quadriceps,plie dumbbell squat
+569,indoor,chest,plyo kettlebell pushups
+570,both,chest,plyo push-up
+571,both,calves,posterior tibialis stretch
+572,indoor,hamstrings,power clean
+573,indoor,hamstrings,power clean from blocks
+574,indoor,quadriceps,power jerk
+575,indoor,shoulders,power partials
+576,indoor,hamstrings,power snatch
+577,indoor,quadriceps,power snatch from blocks
+578,indoor,hamstrings,power stairs
+579,indoor,biceps,preacher curl
+580,indoor,biceps,preacher hammer dumbbell curl
+581,both,abdominals,press sit-up
+582,both,hamstrings,prone manual hamstring
+583,outdoor,hamstrings,prowler sprint
+584,indoor,glutes,pull through
+585,indoor,lats,pullups
+586,indoor,shoulders,push press
+587,indoor,shoulders,push press - behind the neck
+588,both,chest,push up to side plank
+589,both,chest,push-up wide
+590,both,triceps,push-ups - close triceps position
+591,both,chest,push-ups with feet elevated
+592,both,chest,push-ups with feet on an exercise ball
+593,both,chest,pushups
+594,both,chest,pushups (close and wide hand positions)
+595,both,lower back,pyramid
+596,both,quadriceps,quad stretch
+597,both,quadriceps,quadriceps-smr
+598,both,quadriceps,quick leap
+599,indoor,shoulders,rack delivery
+600,indoor,lower back,rack pull with bands
+601,indoor,lower back,rack pulls
+602,both,quadriceps,rear leg raises
+603,indoor,quadriceps,recumbent bike
+604,both,shoulders,return push from stance
+605,indoor,triceps,reverse band bench press
+606,indoor,quadriceps,reverse band box squat
+607,indoor,lower back,reverse band deadlift
+608,indoor,quadriceps,reverse band power squat
+609,indoor,hamstrings,reverse band sumo deadlift
+610,indoor,biceps,reverse barbell curl
+611,indoor,biceps,reverse barbell preacher curls
+612,indoor,biceps,reverse cable curl
+613,both,abdominals,reverse crunch
+614,indoor,shoulders,reverse flyes
+615,indoor,shoulders,reverse flyes with external rotation
+616,indoor,middle back,reverse grip bent-over rows
+617,indoor,triceps,reverse grip triceps pushdown
+618,indoor,hamstrings,reverse hyperextension
+619,indoor,shoulders,reverse machine flyes
+620,indoor,biceps,reverse plate curls
+621,indoor,triceps,reverse triceps bench press
+622,both,middle back,rhomboids-smr
+623,outdoor,forearms,rickshaw carry
+624,indoor,quadriceps,rickshaw deadlift
+625,indoor,triceps,ring dips
+626,both,quadriceps,rocket jump
+627,indoor,calves,rocking standing calf raise
+628,indoor,lats,rocky pull-ups/pulldowns
+629,indoor,hamstrings,romanian deadlift
+630,indoor,hamstrings,romanian deadlift from deficit
+631,indoor,lats,rope climb
+632,indoor,abdominals,rope crunch
+633,both,quadriceps,rope jumping
+634,indoor,lats,rope straight-arm pulldown
+635,indoor,shoulders,round the world shoulder stretch
+636,indoor,stationary,rowing
+637,outdoor,hamstrings,runner's stretch
+638,indoor,treadmill,running
+639,both,abdominals,russian twist
+640,outdoor,quadriceps,sandbag load
+641,indoor,traps,scapular pull-up
+642,both,abdominals,scissor kick
+643,outdoor,quadriceps,scissors jump
+644,indoor,hamstrings,seated band hamstring curl
+645,indoor,shoulders,seated barbell military press
+646,indoor,abdominals,seated barbell twist
+647,indoor,triceps,seated bent-over one-arm dumbbell triceps extension
+648,both,shoulders,seated bent-over rear delt raise
+649,indoor,triceps,seated bent-over two-arm dumbbell triceps extension
+650,indoor,biceps,seated biceps
+651,indoor,middle back,seated cable rows
+652,indoor,shoulders,seated cable shoulder press
+653,both,calves,seated calf raise
+654,both,calves,seated calf stretch
+655,indoor,biceps,seated close-grip concentration barbell curl
+656,indoor,biceps,seated dumbbell curl
+657,indoor,biceps,seated dumbbell inner biceps curl
+658,indoor,forearms,seated dumbbell palms-down wrist curl
+659,indoor,forearms,seated dumbbell palms-up wrist curl
+660,indoor,shoulders,seated dumbbell press
+661,indoor,abdominals,seated flat bench leg pull-in
+662,both,hamstrings,seated floor hamstring stretch
+663,indoor,shoulders,seated front deltoid
+664,indoor,glutes,seated glute
+665,indoor,lower back,seated good mornings
+666,indoor,hamstrings,seated hamstring
+667,indoor,hamstrings,seated hamstring and calf stretch
+668,indoor,neck,seated head harness neck resistance
+669,indoor,hamstrings,seated leg curl
+670,both,abdominals,seated leg tucks
+671,indoor,middle back,seated one-arm cable pulley rows
+672,indoor,forearms,seated one-arm dumbbell palms-down wrist curl
+673,indoor,forearms,seated one-arm dumbbell palms-up wrist curl
+674,indoor,abdominals,seated overhead stretch
+675,indoor,forearms,seated palm-up barbell wrist curl
+676,indoor,forearms,seated palms-down barbell wrist curl
+677,indoor,shoulders,seated side lateral raise
+678,indoor,triceps,seated triceps press
+679,indoor,forearms,seated two-arm palms-up low-pulley wrist curl
+680,indoor,shoulders,see-saw press (alternating side press)
+681,indoor,lats,shotgun row
+682,both,shoulders,shoulder circles
+683,indoor,shoulders,shoulder press - with bands
+684,both,shoulders,shoulder raise
+685,both,shoulders,shoulder stretch
+686,both,abdominals,side bridge
+687,outdoor,quadriceps,side hop-sprint
+688,both,abdominals,side jackknife
+689,both,shoulders,side lateral raise
+690,both,shoulders,side laterals to front raise
+691,both,adductors,side leg raises
+692,both,adductors,side lying groin stretch
+693,both,neck,side neck stretch
+694,outdoor,quadriceps,side standing long jump
+695,indoor,quadriceps,side to side box shuffle
+696,indoor,lats,side to side chins
+697,both,shoulders,side wrist pull
+698,both,lats,side-lying floor stretch
+699,indoor,shoulders,single dumbbell raise
+700,both,quadriceps,single leg butt kick
+701,both,glutes,single leg glute bridge
+702,indoor,quadriceps,single leg push-off
+703,indoor,chest,single-arm cable crossover
+704,both,shoulders,single-arm linear jammer
+705,both,chest,single-arm push-up
+706,outdoor,quadriceps,single-cone sprint drill
+707,indoor,quadriceps,single-leg high box squat
+708,both,quadriceps,single-leg hop progression
+709,both,quadriceps,single-leg lateral hop
+710,both,quadriceps,single-leg leg extension
+711,both,quadriceps,single-leg stride jump
+712,both,quadriceps,sit squats
+713,both,abdominals,sit-up
+714,outdoor,quadriceps,skating
+715,indoor,quadriceps,sled drag - harness
+716,indoor,shoulders,sled overhead backward walk
+717,indoor,triceps,sled overhead triceps extension
+718,indoor,quadriceps,sled push
+719,indoor,shoulders,sled reverse flye
+720,indoor,middle back,sled row
+721,indoor,abdominals,sledgehammer swings
+722,indoor,shoulders,smith incline shoulder raise
+723,indoor,traps,smith machine behind the back shrug
+724,indoor,chest,smith machine bench press
+725,indoor,middle back,smith machine bent over row
+726,indoor,calves,smith machine calf raise
+727,indoor,triceps,smith machine close-grip bench press
+728,indoor,chest,smith machine decline press
+729,indoor,hamstrings,smith machine hang power clean
+730,indoor,abdominals,smith machine hip raise
+731,indoor,chest,smith machine incline bench press
+732,indoor,quadriceps,smith machine leg press
+733,indoor,shoulders,smith machine one-arm upright row
+734,indoor,shoulders,smith machine overhead shoulder press
+735,indoor,quadriceps,smith machine pistol squat
+736,indoor,calves,smith machine reverse calf raises
+737,indoor,traps,smith machine shrug
+738,indoor,quadriceps,smith machine squat
+739,indoor,hamstrings,smith machine stiff-legged deadlift
+740,indoor,traps,smith machine upright row
+741,indoor,quadriceps,smith single-leg split squat
+742,indoor,quadriceps,snatch
+743,indoor,quadriceps,snatch balance
+744,indoor,hamstrings,snatch deadlift
+745,indoor,quadriceps,snatch from blocks
+746,indoor,hamstrings,snatch pull
+747,indoor,traps,snatch shrug
+748,indoor,triceps,speed band overhead triceps
+749,indoor,triceps,speed band pushdown
+750,indoor,quadriceps,speed box squat
+751,both,quadriceps,speed squats
+752,indoor,abdominals,spell caster
+753,both,abdominals,spider crawl
+754,indoor,biceps,spider curl
+755,both,middle back,spinal stretch
+756,indoor,quadriceps,split clean
+757,indoor,quadriceps,split jerk
+758,indoor,quadriceps,split jump
+759,indoor,hamstrings,split snatch
+760,indoor,quadriceps,split squat with dumbbells
+761,both,hamstrings,split squats
+762,indoor,quadriceps,squat jerk
+763,indoor,quadriceps,squat with bands
+764,indoor,quadriceps,squat with chains
+765,indoor,quadriceps,squat with plate movers
+766,indoor,quadriceps,squats - with bands
+767,indoor,quadriceps,stairmaster
+768,indoor,shoulders,standing alternating dumbbell press
+769,indoor,calves,standing barbell calf raise
+770,indoor,shoulders,standing barbell press behind neck
+771,indoor,triceps,standing bent-over one-arm dumbbell triceps extension
+772,indoor,triceps,standing bent-over two-arm dumbbell triceps extension
+773,indoor,biceps,standing biceps cable curl
+774,both,biceps,standing biceps stretch
+775,indoor,shoulders,standing bradford press
+776,indoor,chest,standing cable chest press
+777,indoor,abdominals,standing cable lift
+778,indoor,abdominals,standing cable wood chop
+779,both,calves,standing calf raises
+780,indoor,biceps,standing concentration curl
+781,indoor,calves,standing dumbbell calf raise
+782,indoor,shoulders,standing dumbbell press
+783,indoor,biceps,standing dumbbell reverse curl
+784,indoor,shoulders,standing dumbbell straight-arm front delt raise above head
+785,indoor,triceps,standing dumbbell triceps extension
+786,indoor,traps,standing dumbbell upright row
+787,both,quadriceps,standing elevated quad stretch
+788,indoor,shoulders,standing front barbell raise over head
+789,both,calves,standing gastrocnemius calf stretch
+790,both,hamstrings,standing hamstring and calf stretch
+791,both,abductors,standing hip circles
+792,both,quadriceps,standing hip flexors
+793,indoor,biceps,standing inner-biceps curl
+794,both,abdominals,standing lateral stretch
+795,both,hamstrings,standing leg curl
+796,both,quadriceps,standing long jump
+797,indoor,shoulders,standing low-pulley deltoid raise
+798,both,triceps,standing low-pulley one-arm triceps extension
+799,indoor,shoulders,standing military press
+800,indoor,forearms,standing olympic plate hand squeeze
+801,indoor,biceps,standing one-arm cable curl
+802,indoor,biceps,standing one-arm dumbbell curl over incline bench
+803,indoor,triceps,standing one-arm dumbbell triceps extension
+804,indoor,triceps,standing overhead barbell triceps extension
+805,indoor,shoulders,standing palm-in one-arm dumbbell press
+806,indoor,shoulders,standing palms-in dumbbell press
+807,indoor,forearms,standing palms-up barbell behind the back wrist curl
+808,both,lower back,standing pelvic tilt
+809,indoor,abdominals,standing rope crunch
+810,both,calves,standing soleus and achilles stretch
+811,both,hamstrings,standing toe touches
+812,indoor,triceps,standing towel triceps extension
+813,indoor,shoulders,standing two-arm overhead throw
+814,both,quadriceps,star jump
+815,indoor,quadriceps,step mill
+816,indoor,glutes,step-up with knee raise
+817,indoor,lower back,stiff leg barbell good morning
+818,indoor,hamstrings,stiff-legged barbell deadlift
+819,indoor,hamstrings,stiff-legged dumbbell deadlift
+820,both,abdominals,stomach vacuum
+821,indoor,middle back,straight bar bench mid rows
+822,indoor,shoulders,straight raises on incline bench
+823,indoor,chest,straight-arm dumbbell pullover
+824,indoor,lats,straight-arm pulldown
+825,indoor,quadriceps,stride jump crossover
+826,indoor,hamstrings,sumo deadlift
+827,indoor,hamstrings,sumo deadlift with bands
+828,indoor,hamstrings,sumo deadlift with chains
+829,both,lower back,superman
+830,indoor,triceps,supine chest throw
+831,indoor,abdominals,supine one-arm overhead throw
+832,indoor,abdominals,supine two-arm overhead throw
+833,indoor,chest,suspended push-up
+834,indoor,abdominals,suspended reverse crunch
+835,indoor,middle back,suspended row
+836,indoor,quadriceps,suspended split squat
+837,indoor,middle back,t-bar row with handle
+838,indoor,triceps,tate press
+839,both,hamstrings,the straddle
+840,both,abductors,thigh abductor
+841,both,adductors,thigh adductor
+842,outdoor,quadriceps,tire flip
+843,both,abdominals,toe touchers
+844,both,abdominals,torso rotation
+845,outdoor,quadriceps,trail running/walking
+846,indoor,quadriceps,trap bar deadlift
+847,indoor,triceps,tricep dumbbell kickback
+848,both,triceps,tricep side stretch
+849,indoor,triceps,triceps overhead extension with rope
+850,indoor,triceps,triceps pushdown
+851,indoor,triceps,triceps pushdown - rope attachment
+852,indoor,triceps,triceps pushdown - v-bar attachment
+853,both,triceps,triceps stretch
+854,both,abdominals,tuck crunch
+855,indoor,biceps,two-arm dumbbell preacher curl
+856,indoor,shoulders,two-arm kettlebell clean
+857,indoor,shoulders,two-arm kettlebell jerk
+858,indoor,shoulders,two-arm kettlebell military press
+859,indoor,middle back,two-arm kettlebell row
+860,indoor,lats,underhand cable pulldowns
+861,both,middle back,upper back stretch
+862,both,hamstrings,upper back-leg grab
+863,indoor,shoulders,upright barbell row
+864,indoor,traps,upright cable row
+865,indoor,traps,upright row - with bands
+866,both,shoulders,upward stretch
+867,indoor,lats,v-bar pulldown
+868,indoor,lats,v-bar pullup
+869,indoor,hamstrings,vertical swing
+870,indoor,treadmill,walking
+871,indoor,lower back,weighted ball hyperextension
+872,indoor,abdominals,weighted ball side bend
+873,indoor,triceps,weighted bench dip
+874,indoor,abdominals,weighted crunches
+875,indoor,quadriceps,weighted jump squat
+876,indoor,lats,weighted pull ups
+877,indoor,quadriceps,weighted sissy squat
+878,indoor,abdominals,weighted sit-ups - with bands
+879,indoor,quadriceps,weighted squat
+880,indoor,quadriceps,wide stance barbell squat
+881,indoor,hamstrings,wide stance stiff legs
+882,indoor,chest,wide-grip barbell bench press
+883,indoor,chest,wide-grip decline barbell bench press
+884,indoor,chest,wide-grip decline barbell pullover
+885,indoor,lats,wide-grip lat pulldown
+886,indoor,lats,wide-grip pulldown behind the neck
+887,indoor,lats,wide-grip rear pull-up
+888,indoor,biceps,wide-grip standing barbell curl
+889,outdoor,abdominals,wind sprints
+890,both,abductors,windmills
+891,both,hamstrings,world's greatest stretch
+892,both,forearms,wrist circles
+893,indoor,forearms,wrist roller
+894,indoor,forearms,wrist rotations with straight bar
+895,indoor,quadriceps,yoke walk
+896,indoor,quadriceps,zercher squats
+897,indoor,biceps,zottman curl
+898,indoor,biceps,zottman preacher curl
