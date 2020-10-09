@@ -1,0 +1,5396 @@
+﻿[
+  {
+    "id": 0,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "ab crunch machine"
+  },
+  {
+    "id": 1,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "ab roller"
+  },
+  {
+    "id": 2,
+    "location": "both",
+    "category": "adductors",
+    "exercise": "adductor"
+  },
+  {
+    "id": 3,
+    "location": "both",
+    "category": "adductors",
+    "exercise": "adductor/groin"
+  },
+  {
+    "id": 4,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "advanced kettlebell windmill"
+  },
+  {
+    "id": 5,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "air bike"
+  },
+  {
+    "id": 6,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "all fours quad stretch"
+  },
+  {
+    "id": 7,
+    "location": "both",
+    "category": "biceps",
+    "exercise": "alternate hammer curl"
+  },
+  {
+    "id": 8,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "alternate heel touchers"
+  },
+  {
+    "id": 9,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "alternate incline dumbbell curl"
+  },
+  {
+    "id": 10,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "alternate leg diagonal bound"
+  },
+  {
+    "id": 11,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "alternating cable shoulder press"
+  },
+  {
+    "id": 12,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "alternating deltoid raise"
+  },
+  {
+    "id": 13,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "alternating floor press"
+  },
+  {
+    "id": 14,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "alternating hang clean"
+  },
+  {
+    "id": 15,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "alternating kettlebell press"
+  },
+  {
+    "id": 16,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "alternating kettlebell row"
+  },
+  {
+    "id": 17,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "alternating renegade row"
+  },
+  {
+    "id": 18,
+    "location": "both",
+    "category": "calves",
+    "exercise": "ankle circles"
+  },
+  {
+    "id": 19,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "ankle on the knee"
+  },
+  {
+    "id": 20,
+    "location": "both",
+    "category": "calves",
+    "exercise": "anterior tibialis-smr"
+  },
+  {
+    "id": 21,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "anti-gravity press"
+  },
+  {
+    "id": 22,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "arm circles"
+  },
+  {
+    "id": 23,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "arnold dumbbell press"
+  },
+  {
+    "id": 24,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "around the worlds"
+  },
+  {
+    "id": 25,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "atlas stone trainer"
+  },
+  {
+    "id": 26,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "atlas stones"
+  },
+  {
+    "id": 27,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "axle deadlift"
+  },
+  {
+    "id": 28,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "ab crunch machine"
+  },
+  {
+    "id": 29,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "ab roller"
+  },
+  {
+    "id": 30,
+    "location": "both",
+    "category": "adductors",
+    "exercise": "adductor"
+  },
+  {
+    "id": 31,
+    "location": "both",
+    "category": "adductors",
+    "exercise": "adductor/groin"
+  },
+  {
+    "id": 32,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "advanced kettlebell windmill"
+  },
+  {
+    "id": 33,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "air bike"
+  },
+  {
+    "id": 34,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "all fours quad stretch"
+  },
+  {
+    "id": 35,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "alternate hammer curl"
+  },
+  {
+    "id": 36,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "alternate heel touchers"
+  },
+  {
+    "id": 37,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "alternate incline dumbbell curl"
+  },
+  {
+    "id": 38,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "alternate leg diagonal bound"
+  },
+  {
+    "id": 39,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "alternating cable shoulder press"
+  },
+  {
+    "id": 40,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "alternating deltoid raise"
+  },
+  {
+    "id": 41,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "alternating floor press"
+  },
+  {
+    "id": 42,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "alternating hang clean"
+  },
+  {
+    "id": 43,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "alternating kettlebell press"
+  },
+  {
+    "id": 44,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "alternating kettlebell row"
+  },
+  {
+    "id": 45,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "alternating renegade row"
+  },
+  {
+    "id": 46,
+    "location": "both",
+    "category": "calves",
+    "exercise": "ankle circles"
+  },
+  {
+    "id": 47,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "ankle on the knee"
+  },
+  {
+    "id": 48,
+    "location": "both",
+    "category": "calves",
+    "exercise": "anterior tibialis-smr"
+  },
+  {
+    "id": 49,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "anti-gravity press"
+  },
+  {
+    "id": 50,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "arm circles"
+  },
+  {
+    "id": 51,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "arnold dumbbell press"
+  },
+  {
+    "id": 52,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "around the worlds"
+  },
+  {
+    "id": 53,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "atlas stone trainer"
+  },
+  {
+    "id": 54,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "atlas stones"
+  },
+  {
+    "id": 55,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "axle deadlift"
+  },
+  {
+    "id": 56,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "back flyes - with bands"
+  },
+  {
+    "id": 57,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "backward drag"
+  },
+  {
+    "id": 58,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "backward medicine ball throw"
+  },
+  {
+    "id": 59,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "balance board"
+  },
+  {
+    "id": 60,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "ball leg curl"
+  },
+  {
+    "id": 61,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "band assisted pull-up"
+  },
+  {
+    "id": 62,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "band good morning"
+  },
+  {
+    "id": 63,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "band good morning (pull through)"
+  },
+  {
+    "id": 64,
+    "location": "indoor",
+    "category": "adductors",
+    "exercise": "band hip adductions"
+  },
+  {
+    "id": 65,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "band pull apart"
+  },
+  {
+    "id": 66,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "band skull crusher"
+  },
+  {
+    "id": 67,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "barbell ab rollout"
+  },
+  {
+    "id": 68,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "barbell ab rollout - on knees"
+  },
+  {
+    "id": 69,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "barbell bench press - medium grip"
+  },
+  {
+    "id": 70,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "barbell curl"
+  },
+  {
+    "id": 71,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "barbell curls lying against an incline"
+  },
+  {
+    "id": 72,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "barbell deadlift"
+  },
+  {
+    "id": 73,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "barbell full squat"
+  },
+  {
+    "id": 74,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "barbell glute bridge"
+  },
+  {
+    "id": 75,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "barbell guillotine bench press"
+  },
+  {
+    "id": 76,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "barbell hack squat"
+  },
+  {
+    "id": 77,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "barbell hip thrust"
+  },
+  {
+    "id": 78,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "barbell incline bench press - medium grip"
+  },
+  {
+    "id": 79,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "barbell incline shoulder raise"
+  },
+  {
+    "id": 80,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "barbell lunge"
+  },
+  {
+    "id": 81,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "barbell rear delt row"
+  },
+  {
+    "id": 82,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "barbell rollout from bench"
+  },
+  {
+    "id": 83,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "barbell seated calf raise"
+  },
+  {
+    "id": 84,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "barbell shoulder press"
+  },
+  {
+    "id": 85,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "barbell shrug"
+  },
+  {
+    "id": 86,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "barbell shrug behind the back"
+  },
+  {
+    "id": 87,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "barbell side bend"
+  },
+  {
+    "id": 88,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "barbell side split squat"
+  },
+  {
+    "id": 89,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "barbell squat"
+  },
+  {
+    "id": 90,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "barbell squat to a bench"
+  },
+  {
+    "id": 91,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "barbell step ups"
+  },
+  {
+    "id": 92,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "barbell walking lunge"
+  },
+  {
+    "id": 93,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "battling ropes"
+  },
+  {
+    "id": 94,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "bear crawl sled drags"
+  },
+  {
+    "id": 95,
+    "location": "both",
+    "category": "chest",
+    "exercise": "behind head chest stretch"
+  },
+  {
+    "id": 96,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "bench dips"
+  },
+  {
+    "id": 97,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "bench jump"
+  },
+  {
+    "id": 98,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "bench press - powerlifting"
+  },
+  {
+    "id": 99,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "bench press - with bands"
+  },
+  {
+    "id": 100,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "bench press with chains"
+  },
+  {
+    "id": 101,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "bench sprint"
+  },
+  {
+    "id": 102,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "bent over barbell row"
+  },
+  {
+    "id": 103,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "bent over dumbbell rear delt raise with head on bench"
+  },
+  {
+    "id": 104,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "bent over low-pulley side lateral"
+  },
+  {
+    "id": 105,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "bent over one-arm long bar row"
+  },
+  {
+    "id": 106,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "bent over two-arm long bar row"
+  },
+  {
+    "id": 107,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "bent over two-dumbbell row"
+  },
+  {
+    "id": 108,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "bent over two-dumbbell row with palms in"
+  },
+  {
+    "id": 109,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "bent press"
+  },
+  {
+    "id": 110,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "bent-arm barbell pullover"
+  },
+  {
+    "id": 111,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "bent-arm dumbbell pullover"
+  },
+  {
+    "id": 112,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "bent-knee hip raise"
+  },
+  {
+    "id": 113,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "bicycling"
+  },
+  {
+    "id": 114,
+    "location": "indoor",
+    "category": "stationary",
+    "exercise": "bicycling"
+  },
+  {
+    "id": 115,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "board press"
+  },
+  {
+    "id": 116,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "body tricep press"
+  },
+  {
+    "id": 117,
+    "location": "both",
+    "category": "triceps",
+    "exercise": "body-up"
+  },
+  {
+    "id": 118,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "bodyweight flyes"
+  },
+  {
+    "id": 119,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "bodyweight mid row"
+  },
+  {
+    "id": 120,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "bodyweight squat"
+  },
+  {
+    "id": 121,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "bodyweight walking lunge"
+  },
+  {
+    "id": 122,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "bosu ball cable crunch with side bends"
+  },
+  {
+    "id": 123,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "bottoms up"
+  },
+  {
+    "id": 124,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "bottoms-up clean from the hang position"
+  },
+  {
+    "id": 125,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "box jump (multiple response)"
+  },
+  {
+    "id": 126,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "box skip"
+  },
+  {
+    "id": 127,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "box squat"
+  },
+  {
+    "id": 128,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "box squat with bands"
+  },
+  {
+    "id": 129,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "box squat with chains"
+  },
+  {
+    "id": 130,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "brachialis-smr"
+  },
+  {
+    "id": 131,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "bradford/rocky presses"
+  },
+  {
+    "id": 132,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "butt lift (bridge)"
+  },
+  {
+    "id": 133,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "butt-ups"
+  },
+  {
+    "id": 134,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "butterfly"
+  },
+  {
+    "id": 135,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "cable chest press"
+  },
+  {
+    "id": 136,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "cable crossover"
+  },
+  {
+    "id": 137,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "cable crunch"
+  },
+  {
+    "id": 138,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "cable deadlifts"
+  },
+  {
+    "id": 139,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "cable hammer curls - rope attachment"
+  },
+  {
+    "id": 140,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "cable hip adduction"
+  },
+  {
+    "id": 141,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "cable incline pushdown"
+  },
+  {
+    "id": 142,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "cable incline triceps extension"
+  },
+  {
+    "id": 143,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "cable internal rotation"
+  },
+  {
+    "id": 144,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "cable iron cross"
+  },
+  {
+    "id": 145,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "cable judo flip"
+  },
+  {
+    "id": 146,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "cable lying triceps extension"
+  },
+  {
+    "id": 147,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "cable one arm tricep extension"
+  },
+  {
+    "id": 148,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "cable preacher curl"
+  },
+  {
+    "id": 149,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "cable rear delt fly"
+  },
+  {
+    "id": 150,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "cable reverse crunch"
+  },
+  {
+    "id": 151,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "cable rope overhead triceps extension"
+  },
+  {
+    "id": 152,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "cable rope rear-delt rows"
+  },
+  {
+    "id": 153,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "cable russian twists"
+  },
+  {
+    "id": 154,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "cable seated crunch"
+  },
+  {
+    "id": 155,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "cable seated lateral raise"
+  },
+  {
+    "id": 156,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "cable shoulder press"
+  },
+  {
+    "id": 157,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "cable shrugs"
+  },
+  {
+    "id": 158,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "cable tuck reverse crunch"
+  },
+  {
+    "id": 159,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "cable wrist curl"
+  },
+  {
+    "id": 160,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "calf press"
+  },
+  {
+    "id": 161,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "calf press on the leg press machine"
+  },
+  {
+    "id": 162,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "calf raise on a dumbbell"
+  },
+  {
+    "id": 163,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "calf raises - with bands"
+  },
+  {
+    "id": 164,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "calf stretch elbows against wall"
+  },
+  {
+    "id": 165,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "calf stretch hands against wall"
+  },
+  {
+    "id": 166,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "calf-machine shoulder shrug"
+  },
+  {
+    "id": 167,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "calves-smr"
+  },
+  {
+    "id": 168,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "car deadlift"
+  },
+  {
+    "id": 169,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "car drivers"
+  },
+  {
+    "id": 170,
+    "location": "outdoor",
+    "category": "adductors",
+    "exercise": "carioca quick step"
+  },
+  {
+    "id": 171,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "cat stretch"
+  },
+  {
+    "id": 172,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "catch and overhead throw"
+  },
+  {
+    "id": 173,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "chain handle extension"
+  },
+  {
+    "id": 174,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "chain press"
+  },
+  {
+    "id": 175,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "chair leg extended stretch"
+  },
+  {
+    "id": 176,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "chair lower back stretch"
+  },
+  {
+    "id": 177,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "chair squat"
+  },
+  {
+    "id": 178,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "chair upper body stretch"
+  },
+  {
+    "id": 179,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "chest and front of shoulder stretch"
+  },
+  {
+    "id": 180,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "chest push (multiple response)"
+  },
+  {
+    "id": 181,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "chest push (single response)"
+  },
+  {
+    "id": 182,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "chest push from 3 point stance"
+  },
+  {
+    "id": 183,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "chest push with run release"
+  },
+  {
+    "id": 184,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "chest stretch on stability ball"
+  },
+  {
+    "id": 185,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "child's pose"
+  },
+  {
+    "id": 186,
+    "location": "both",
+    "category": "neck",
+    "exercise": "chin to chest stretch"
+  },
+  {
+    "id": 187,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "chin-up"
+  },
+  {
+    "id": 188,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "circus bell"
+  },
+  {
+    "id": 189,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "clean"
+  },
+  {
+    "id": 190,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "clean and jerk"
+  },
+  {
+    "id": 191,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "clean and press"
+  },
+  {
+    "id": 192,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "clean deadlift"
+  },
+  {
+    "id": 193,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "clean from blocks"
+  },
+  {
+    "id": 194,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "clean pull"
+  },
+  {
+    "id": 195,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "clean shrug"
+  },
+  {
+    "id": 196,
+    "location": "both",
+    "category": "chest",
+    "exercise": "clock push-up"
+  },
+  {
+    "id": 197,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "close-grip barbell bench press"
+  },
+  {
+    "id": 198,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "close-grip dumbbell press"
+  },
+  {
+    "id": 199,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "close-grip ez bar curl"
+  },
+  {
+    "id": 200,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "close-grip ez-bar curl with band"
+  },
+  {
+    "id": 201,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "close-grip ez-bar press"
+  },
+  {
+    "id": 202,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "close-grip front lat pulldown"
+  },
+  {
+    "id": 203,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "close-grip push-up off of a dumbbell"
+  },
+  {
+    "id": 204,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "close-grip standing barbell curl"
+  },
+  {
+    "id": 205,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "cocoons"
+  },
+  {
+    "id": 206,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "conan's wheel"
+  },
+  {
+    "id": 207,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "concentration curls"
+  },
+  {
+    "id": 208,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "cross body hammer curl"
+  },
+  {
+    "id": 209,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "cross over - with bands"
+  },
+  {
+    "id": 210,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "cross-body crunch"
+  },
+  {
+    "id": 211,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "crossover reverse lunge"
+  },
+  {
+    "id": 212,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "crucifix"
+  },
+  {
+    "id": 213,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "crunch - hands overhead"
+  },
+  {
+    "id": 214,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "crunch - legs on exercise ball"
+  },
+  {
+    "id": 215,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "crunches"
+  },
+  {
+    "id": 216,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "cuban press"
+  },
+  {
+    "id": 217,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "dancer's stretch"
+  },
+  {
+    "id": 218,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "deadlift with bands"
+  },
+  {
+    "id": 219,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "deadlift with chains"
+  },
+  {
+    "id": 220,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "decline barbell bench press"
+  },
+  {
+    "id": 221,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "decline close-grip bench to skull crusher"
+  },
+  {
+    "id": 222,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "decline crunch"
+  },
+  {
+    "id": 223,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "decline dumbbell bench press"
+  },
+  {
+    "id": 224,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "decline dumbbell flyes"
+  },
+  {
+    "id": 225,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "decline dumbbell triceps extension"
+  },
+  {
+    "id": 226,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "decline ez bar triceps extension"
+  },
+  {
+    "id": 227,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "decline oblique crunch"
+  },
+  {
+    "id": 228,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "decline push-up"
+  },
+  {
+    "id": 229,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "decline reverse crunch"
+  },
+  {
+    "id": 230,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "decline smith press"
+  },
+  {
+    "id": 231,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "deficit deadlift"
+  },
+  {
+    "id": 232,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "depth jump leap"
+  },
+  {
+    "id": 233,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "dip machine"
+  },
+  {
+    "id": 234,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "dips - chest version"
+  },
+  {
+    "id": 235,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "dips - triceps version"
+  },
+  {
+    "id": 236,
+    "location": "both",
+    "category": "calves",
+    "exercise": "donkey calf raises"
+  },
+  {
+    "id": 237,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "double kettlebell alternating hang clean"
+  },
+  {
+    "id": 238,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "double kettlebell jerk"
+  },
+  {
+    "id": 239,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "double kettlebell push press"
+  },
+  {
+    "id": 240,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "double kettlebell snatch"
+  },
+  {
+    "id": 241,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "double kettlebell windmill"
+  },
+  {
+    "id": 242,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "double leg butt kick"
+  },
+  {
+    "id": 243,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "downward facing balance"
+  },
+  {
+    "id": 244,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "drag curl"
+  },
+  {
+    "id": 245,
+    "location": "both",
+    "category": "chest",
+    "exercise": "drop push"
+  },
+  {
+    "id": 246,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "dumbbell alternate bicep curl"
+  },
+  {
+    "id": 247,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "dumbbell bench press"
+  },
+  {
+    "id": 248,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "dumbbell bench press with neutral grip"
+  },
+  {
+    "id": 249,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "dumbbell bicep curl"
+  },
+  {
+    "id": 250,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "dumbbell clean"
+  },
+  {
+    "id": 251,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "dumbbell floor press"
+  },
+  {
+    "id": 252,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "dumbbell flyes"
+  },
+  {
+    "id": 253,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "dumbbell incline row"
+  },
+  {
+    "id": 254,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "dumbbell incline shoulder raise"
+  },
+  {
+    "id": 255,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "dumbbell lunges"
+  },
+  {
+    "id": 256,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "dumbbell lying one-arm rear lateral raise"
+  },
+  {
+    "id": 257,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "dumbbell lying pronation"
+  },
+  {
+    "id": 258,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "dumbbell lying rear lateral raise"
+  },
+  {
+    "id": 259,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "dumbbell lying supination"
+  },
+  {
+    "id": 260,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "dumbbell one-arm shoulder press"
+  },
+  {
+    "id": 261,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "dumbbell one-arm triceps extension"
+  },
+  {
+    "id": 262,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "dumbbell one-arm upright row"
+  },
+  {
+    "id": 263,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "dumbbell prone incline curl"
+  },
+  {
+    "id": 264,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "dumbbell raise"
+  },
+  {
+    "id": 265,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "dumbbell rear lunge"
+  },
+  {
+    "id": 266,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "dumbbell scaption"
+  },
+  {
+    "id": 267,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "dumbbell seated box jump"
+  },
+  {
+    "id": 268,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "dumbbell seated one-leg calf raise"
+  },
+  {
+    "id": 269,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "dumbbell shoulder press"
+  },
+  {
+    "id": 270,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "dumbbell shrug"
+  },
+  {
+    "id": 271,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "dumbbell side bend"
+  },
+  {
+    "id": 272,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "dumbbell squat"
+  },
+  {
+    "id": 273,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "dumbbell squat to a bench"
+  },
+  {
+    "id": 274,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "dumbbell step ups"
+  },
+  {
+    "id": 275,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "dumbbell tricep extension -pronated grip"
+  },
+  {
+    "id": 276,
+    "location": "both",
+    "category": "lats",
+    "exercise": "dynamic back stretch"
+  },
+  {
+    "id": 277,
+    "location": "both",
+    "category": "chest",
+    "exercise": "dynamic chest stretch"
+  },
+  {
+    "id": 278,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "elbow circles"
+  },
+  {
+    "id": 279,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "elbow to knee"
+  },
+  {
+    "id": 280,
+    "location": "both",
+    "category": "chest",
+    "exercise": "elbows back"
+  },
+  {
+    "id": 281,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "elevated back lunge"
+  },
+  {
+    "id": 282,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "elevated cable rows"
+  },
+  {
+    "id": 283,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "elliptical trainer"
+  },
+  {
+    "id": 284,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "exercise ball crunch"
+  },
+  {
+    "id": 285,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "exercise ball pull-in"
+  },
+  {
+    "id": 286,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "extended range one-arm kettlebell floor press"
+  },
+  {
+    "id": 287,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "external rotation"
+  },
+  {
+    "id": 288,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "external rotation with band"
+  },
+  {
+    "id": 289,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "external rotation with cable"
+  },
+  {
+    "id": 290,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "ez-bar curl"
+  },
+  {
+    "id": 291,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "ez-bar skullcrusher"
+  },
+  {
+    "id": 292,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "face pull"
+  },
+  {
+    "id": 293,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "farmer's walk"
+  },
+  {
+    "id": 294,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "fast skipping"
+  },
+  {
+    "id": 295,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "finger curls"
+  },
+  {
+    "id": 296,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "flat bench cable flyes"
+  },
+  {
+    "id": 297,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "flat bench leg pull-in"
+  },
+  {
+    "id": 298,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "flat bench lying leg raise"
+  },
+  {
+    "id": 299,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "flexor incline dumbbell curls"
+  },
+  {
+    "id": 300,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "floor glute-ham raise"
+  },
+  {
+    "id": 301,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "floor press"
+  },
+  {
+    "id": 302,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "floor press with chains"
+  },
+  {
+    "id": 303,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "flutter kicks"
+  },
+  {
+    "id": 304,
+    "location": "both",
+    "category": "calves",
+    "exercise": "foot-smr"
+  },
+  {
+    "id": 305,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "forward drag with press"
+  },
+  {
+    "id": 306,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "frankenstein squat"
+  },
+  {
+    "id": 307,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "freehand jump squat"
+  },
+  {
+    "id": 308,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "frog hops"
+  },
+  {
+    "id": 309,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "frog sit-ups"
+  },
+  {
+    "id": 310,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "front barbell squat"
+  },
+  {
+    "id": 311,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "front barbell squat to a bench"
+  },
+  {
+    "id": 312,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "front box jump"
+  },
+  {
+    "id": 313,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "front cable raise"
+  },
+  {
+    "id": 314,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "front cone hops (or hurdle hops)"
+  },
+  {
+    "id": 315,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "front dumbbell raise"
+  },
+  {
+    "id": 316,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "front incline dumbbell raise"
+  },
+  {
+    "id": 317,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "front leg raises"
+  },
+  {
+    "id": 318,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "front plate raise"
+  },
+  {
+    "id": 319,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "front raise and pullover"
+  },
+  {
+    "id": 320,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "front squat (clean grip)"
+  },
+  {
+    "id": 321,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "front squats with two kettlebells"
+  },
+  {
+    "id": 322,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "front two-dumbbell raise"
+  },
+  {
+    "id": 323,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "full range-of-motion lat pulldown"
+  },
+  {
+    "id": 324,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "gironda sternum chins"
+  },
+  {
+    "id": 325,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "glute ham raise"
+  },
+  {
+    "id": 326,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "glute kickback"
+  },
+  {
+    "id": 327,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "goblet squat"
+  },
+  {
+    "id": 328,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "good morning"
+  },
+  {
+    "id": 329,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "good morning off pins"
+  },
+  {
+    "id": 330,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "gorilla chin/crunch"
+  },
+  {
+    "id": 331,
+    "location": "both",
+    "category": "adductors",
+    "exercise": "groin and back stretch"
+  },
+  {
+    "id": 332,
+    "location": "both",
+    "category": "adductors",
+    "exercise": "groiners"
+  },
+  {
+    "id": 333,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "hack squat"
+  },
+  {
+    "id": 334,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "hammer curls"
+  },
+  {
+    "id": 335,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "hammer grip incline db bench press"
+  },
+  {
+    "id": 336,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "hamstring stretch"
+  },
+  {
+    "id": 337,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "hamstring-smr"
+  },
+  {
+    "id": 338,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "handstand push-ups"
+  },
+  {
+    "id": 339,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "hang clean"
+  },
+  {
+    "id": 340,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "hang clean - below the knees"
+  },
+  {
+    "id": 341,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "hang snatch"
+  },
+  {
+    "id": 342,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "hang snatch - below knees"
+  },
+  {
+    "id": 343,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "hanging bar good morning"
+  },
+  {
+    "id": 344,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "hanging leg raise"
+  },
+  {
+    "id": 345,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "hanging pike"
+  },
+  {
+    "id": 346,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "heaving snatch balance"
+  },
+  {
+    "id": 347,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "heavy bag thrust"
+  },
+  {
+    "id": 348,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "high cable curls"
+  },
+  {
+    "id": 349,
+    "location": "both",
+    "category": "abductors",
+    "exercise": "hip circles (prone)"
+  },
+  {
+    "id": 350,
+    "location": "both",
+    "category": "abductors",
+    "exercise": "hip crossover,"
+  },
+  {
+    "id": 351,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "hip extension with bands"
+  },
+  {
+    "id": 352,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "hip flexion with band"
+  },
+  {
+    "id": 353,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "hip lift with band"
+  },
+  {
+    "id": 354,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "hug a ball"
+  },
+  {
+    "id": 355,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "hug knees to chest"
+  },
+  {
+    "id": 356,
+    "location": "outdoor",
+    "category": "hamstrings",
+    "exercise": "hurdle hops"
+  },
+  {
+    "id": 357,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "hyperextensions (back extensions)"
+  },
+  {
+    "id": 358,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "hyperextensions with no hyperextension bench"
+  },
+  {
+    "id": 359,
+    "location": "both",
+    "category": "abductors",
+    "exercise": "iliotibial tract-smr"
+  },
+  {
+    "id": 360,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "incline barbell triceps extension"
+  },
+  {
+    "id": 361,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "incline bench pull"
+  },
+  {
+    "id": 362,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline cable chest press"
+  },
+  {
+    "id": 363,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline cable flye"
+  },
+  {
+    "id": 364,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline dumbbell bench with palms facing in"
+  },
+  {
+    "id": 365,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "incline dumbbell curl"
+  },
+  {
+    "id": 366,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline dumbbell flyes"
+  },
+  {
+    "id": 367,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline dumbbell flyes - with a twist"
+  },
+  {
+    "id": 368,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline dumbbell press"
+  },
+  {
+    "id": 369,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "incline hammer curls"
+  },
+  {
+    "id": 370,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "incline inner biceps curl"
+  },
+  {
+    "id": 371,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline push-up"
+  },
+  {
+    "id": 372,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "incline push-up close-grip"
+  },
+  {
+    "id": 373,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline push-up depth jump"
+  },
+  {
+    "id": 374,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline push-up medium"
+  },
+  {
+    "id": 375,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline push-up reverse grip"
+  },
+  {
+    "id": 376,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "incline push-up wide"
+  },
+  {
+    "id": 377,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "intermediate groin stretch"
+  },
+  {
+    "id": 378,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "intermediate hip flexor and quad stretch"
+  },
+  {
+    "id": 379,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "internal rotation with band"
+  },
+  {
+    "id": 380,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "inverted row"
+  },
+  {
+    "id": 381,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "inverted row with straps"
+  },
+  {
+    "id": 382,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "iron cross"
+  },
+  {
+    "id": 383,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "iron crosses (stretch)"
+  },
+  {
+    "id": 384,
+    "location": "both",
+    "category": "chest",
+    "exercise": "isometric chest squeezes"
+  },
+  {
+    "id": 385,
+    "location": "both",
+    "category": "neck",
+    "exercise": "isometric neck exercise - front and back"
+  },
+  {
+    "id": 386,
+    "location": "both",
+    "category": "neck",
+    "exercise": "isometric neck exercise - sides"
+  },
+  {
+    "id": 387,
+    "location": "both",
+    "category": "chest",
+    "exercise": "isometric wipers"
+  },
+  {
+    "id": 388,
+    "location": "indoor",
+    "category": "abductors",
+    "exercise": "it band and glute stretch"
+  },
+  {
+    "id": 389,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "jackknife sit-up"
+  },
+  {
+    "id": 390,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "janda sit-up"
+  },
+  {
+    "id": 391,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "jefferson squats"
+  },
+  {
+    "id": 392,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "jerk balance"
+  },
+  {
+    "id": 393,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "jerk dip squat"
+  },
+  {
+    "id": 394,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "jm press"
+  },
+  {
+    "id": 395,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "jogging-treadmill"
+  },
+  {
+    "id": 396,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "keg load"
+  },
+  {
+    "id": 397,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "kettlebell arnold press"
+  },
+  {
+    "id": 398,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "kettlebell dead clean"
+  },
+  {
+    "id": 399,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "kettlebell figure 8"
+  },
+  {
+    "id": 400,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "kettlebell hang clean"
+  },
+  {
+    "id": 401,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "kettlebell one-legged deadlift"
+  },
+  {
+    "id": 402,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "kettlebell pass between the legs"
+  },
+  {
+    "id": 403,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "kettlebell pirate ships"
+  },
+  {
+    "id": 404,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "kettlebell pistol squat"
+  },
+  {
+    "id": 405,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "kettlebell seated press"
+  },
+  {
+    "id": 406,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "kettlebell seesaw press"
+  },
+  {
+    "id": 407,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "kettlebell sumo high pull"
+  },
+  {
+    "id": 408,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "kettlebell thruster"
+  },
+  {
+    "id": 409,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "kettlebell turkish get-up (lunge style)"
+  },
+  {
+    "id": 410,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "kettlebell turkish get-up (squat style)"
+  },
+  {
+    "id": 411,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "kettlebell windmill"
+  },
+  {
+    "id": 412,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "kipping muscle up"
+  },
+  {
+    "id": 413,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "knee across the body"
+  },
+  {
+    "id": 414,
+    "location": "both",
+    "category": "calves",
+    "exercise": "knee circles"
+  },
+  {
+    "id": 415,
+    "location": "outdoor",
+    "category": "hamstrings",
+    "exercise": "knee tuck jump"
+  },
+  {
+    "id": 416,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "knee/hip raise on parallel bars"
+  },
+  {
+    "id": 417,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "kneeling arm drill"
+  },
+  {
+    "id": 418,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "kneeling cable crunch with alternating oblique twists"
+  },
+  {
+    "id": 419,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "kneeling cable triceps extension"
+  },
+  {
+    "id": 420,
+    "location": "both",
+    "category": "forearms",
+    "exercise": "kneeling forearm stretch"
+  },
+  {
+    "id": 421,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "kneeling high pulley row"
+  },
+  {
+    "id": 422,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "kneeling hip flexor"
+  },
+  {
+    "id": 423,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "kneeling jump squat"
+  },
+  {
+    "id": 424,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "kneeling single-arm high pulley row"
+  },
+  {
+    "id": 425,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "kneeling squat"
+  },
+  {
+    "id": 426,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "landmine 180's"
+  },
+  {
+    "id": 427,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "landmine linear jammer"
+  },
+  {
+    "id": 428,
+    "location": "outdoor",
+    "category": "adductors",
+    "exercise": "lateral bound"
+  },
+  {
+    "id": 429,
+    "location": "indoor",
+    "category": "adductors",
+    "exercise": "lateral box jump"
+  },
+  {
+    "id": 430,
+    "location": "outdoor",
+    "category": "adductors",
+    "exercise": "lateral cone hops"
+  },
+  {
+    "id": 431,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "lateral raise - with bands"
+  },
+  {
+    "id": 432,
+    "location": "both",
+    "category": "lats",
+    "exercise": "latissimus dorsi-smr"
+  },
+  {
+    "id": 433,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "leg extensions"
+  },
+  {
+    "id": 434,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "leg lift"
+  },
+  {
+    "id": 435,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "leg press"
+  },
+  {
+    "id": 436,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "leg pull-in"
+  },
+  {
+    "id": 437,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "leg-over floor press"
+  },
+  {
+    "id": 438,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "leg-up hamstring stretch"
+  },
+  {
+    "id": 439,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "leverage chest press"
+  },
+  {
+    "id": 440,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "leverage deadlift"
+  },
+  {
+    "id": 441,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "leverage decline chest press"
+  },
+  {
+    "id": 442,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "leverage high row"
+  },
+  {
+    "id": 443,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "leverage incline chest press"
+  },
+  {
+    "id": 444,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "leverage iso row"
+  },
+  {
+    "id": 445,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "leverage shoulder press"
+  },
+  {
+    "id": 446,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "leverage shrug"
+  },
+  {
+    "id": 447,
+    "location": "outdoor",
+    "category": "hamstrings",
+    "exercise": "linear 3-part start technique"
+  },
+  {
+    "id": 448,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "linear acceleration wall drill"
+  },
+  {
+    "id": 449,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "linear depth jump"
+  },
+  {
+    "id": 450,
+    "location": "outdoor",
+    "category": "shoulders",
+    "exercise": "log lift"
+  },
+  {
+    "id": 451,
+    "location": "both",
+    "category": "lats",
+    "exercise": "london bridges"
+  },
+  {
+    "id": 452,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "looking at ceiling"
+  },
+  {
+    "id": 453,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "low cable crossover"
+  },
+  {
+    "id": 454,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "low cable triceps extension"
+  },
+  {
+    "id": 455,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "low pulley row to neck"
+  },
+  {
+    "id": 456,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "lower back curl"
+  },
+  {
+    "id": 457,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "lower back-smr"
+  },
+  {
+    "id": 458,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "lunge pass through"
+  },
+  {
+    "id": 459,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "lunge sprint"
+  },
+  {
+    "id": 460,
+    "location": "both",
+    "category": "adductors",
+    "exercise": "lying bent leg groin"
+  },
+  {
+    "id": 461,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "lying cable curl"
+  },
+  {
+    "id": 462,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "lying cambered barbell row"
+  },
+  {
+    "id": 463,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "lying close-grip bar curl on high pulley"
+  },
+  {
+    "id": 464,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "lying close-grip barbell triceps extension behind the head"
+  },
+  {
+    "id": 465,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "lying close-grip barbell triceps press to chin"
+  },
+  {
+    "id": 466,
+    "location": "indoor",
+    "category": "abductors",
+    "exercise": "lying crossover"
+  },
+  {
+    "id": 467,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "lying dumbbell tricep extension"
+  },
+  {
+    "id": 468,
+    "location": "indoor",
+    "category": "neck",
+    "exercise": "lying face down plate neck resistance"
+  },
+  {
+    "id": 469,
+    "location": "indoor",
+    "category": "neck",
+    "exercise": "lying face up plate neck resistance"
+  },
+  {
+    "id": 470,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "lying glute"
+  },
+  {
+    "id": 471,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "lying hamstring"
+  },
+  {
+    "id": 472,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "lying high bench barbell curl"
+  },
+  {
+    "id": 473,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "lying leg curls"
+  },
+  {
+    "id": 474,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "lying machine squat"
+  },
+  {
+    "id": 475,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "lying one-arm lateral raise"
+  },
+  {
+    "id": 476,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "lying prone quadriceps"
+  },
+  {
+    "id": 477,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "lying rear delt raise"
+  },
+  {
+    "id": 478,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "lying supine dumbbell curl"
+  },
+  {
+    "id": 479,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "lying t-bar row"
+  },
+  {
+    "id": 480,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "lying triceps press"
+  },
+  {
+    "id": 481,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "machine bench press"
+  },
+  {
+    "id": 482,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "machine bicep curl"
+  },
+  {
+    "id": 483,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "machine preacher curls"
+  },
+  {
+    "id": 484,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "machine shoulder (military) press"
+  },
+  {
+    "id": 485,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "machine triceps extension"
+  },
+  {
+    "id": 486,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "medicine ball chest pass"
+  },
+  {
+    "id": 487,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "medicine ball full twist"
+  },
+  {
+    "id": 488,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "medicine ball scoop throw"
+  },
+  {
+    "id": 489,
+    "location": "both",
+    "category": "middle back",
+    "exercise": "middle back shrug"
+  },
+  {
+    "id": 490,
+    "location": "both",
+    "category": "middle back",
+    "exercise": "middle back stretch"
+  },
+  {
+    "id": 491,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "mixed grip chin"
+  },
+  {
+    "id": 492,
+    "location": "both",
+    "category": "abductors",
+    "exercise": "monster walk"
+  },
+  {
+    "id": 493,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "mountain climbers"
+  },
+  {
+    "id": 494,
+    "location": "outdoor",
+    "category": "hamstrings",
+    "exercise": "moving claw series"
+  },
+  {
+    "id": 495,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "muscle snatch"
+  },
+  {
+    "id": 496,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "muscle up"
+  },
+  {
+    "id": 497,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "narrow stance hack squats"
+  },
+  {
+    "id": 498,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "narrow stance leg press"
+  },
+  {
+    "id": 499,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "narrow stance squats"
+  },
+  {
+    "id": 500,
+    "location":  "indoor",
+    "category": "hamstrings",
+    "exercise": "natural glute ham raise"
+  },
+  {
+    "id": 501,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "neck press"
+  },
+  {
+    "id": 502,
+    "location": "both",
+    "category": "neck",
+    "exercise": "neck-smr"
+  },
+  {
+    "id": 503,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "oblique crunches"
+  },
+  {
+    "id": 504,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "oblique crunches - on the floor"
+  },
+  {
+    "id": 505,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "olympic squat"
+  },
+  {
+    "id": 506,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "on your side quad stretch"
+  },
+  {
+    "id": 507,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "on-your-back quad stretch"
+  },
+  {
+    "id": 508,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "one arm against wall"
+  },
+  {
+    "id": 509,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "one arm chin-up"
+  },
+  {
+    "id": 510,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "one arm dumbbell bench press"
+  },
+  {
+    "id": 511,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "one arm dumbbell preacher curl"
+  },
+  {
+    "id": 512,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "one arm floor press"
+  },
+  {
+    "id": 513,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "one arm lat pulldown"
+  },
+  {
+    "id": 514,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "one arm pronated dumbbell triceps extension"
+  },
+  {
+    "id": 515,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "one arm supinated dumbbell triceps extension"
+  },
+  {
+    "id": 516,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "one half locust"
+  },
+  {
+    "id": 517,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "one handed hang"
+  },
+  {
+    "id": 518,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "one knee to chest"
+  },
+  {
+    "id": 519,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "one leg barbell squat"
+  },
+  {
+    "id": 520,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "one-arm dumbbell row"
+  },
+  {
+    "id": 521,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "one-arm flat bench dumbbell flye"
+  },
+  {
+    "id": 522,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "one-arm high-pulley cable side bends"
+  },
+  {
+    "id": 523,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "one-arm incline lateral raise"
+  },
+  {
+    "id": 524,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "one-arm kettlebell clean"
+  },
+  {
+    "id": 525,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "one-arm kettlebell clean and jerk"
+  },
+  {
+    "id": 526,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "one-arm kettlebell floor press"
+  },
+  {
+    "id": 527,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "one-arm kettlebell jerk"
+  },
+  {
+    "id": 528,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "one-arm kettlebell military press to the side"
+  },
+  {
+    "id": 529,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "one-arm kettlebell para press"
+  },
+  {
+    "id": 530,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "one-arm kettlebell push press"
+  },
+  {
+    "id": 531,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "one-arm kettlebell row"
+  },
+  {
+    "id": 532,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "one-arm kettlebell snatch"
+  },
+  {
+    "id": 533,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "one-arm kettlebell split jerk"
+  },
+  {
+    "id": 534,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "one-arm kettlebell split snatch"
+  },
+  {
+    "id": 535,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "one-arm kettlebell swings"
+  },
+  {
+    "id": 536,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "one-arm long bar row"
+  },
+  {
+    "id": 537,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "one-arm medicine ball slam"
+  },
+  {
+    "id": 538,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "one-arm open palm kettlebell clean"
+  },
+  {
+    "id": 539,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "one-arm overhead kettlebell squats"
+  },
+  {
+    "id": 540,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "one-arm side deadlift"
+  },
+  {
+    "id": 541,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "one-arm side laterals"
+  },
+  {
+    "id": 542,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "one-legged cable kickback"
+  },
+  {
+    "id": 543,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "open palm kettlebell clean"
+  },
+  {
+    "id": 544,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "otis-up"
+  },
+  {
+    "id": 545,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "overhead cable curl"
+  },
+  {
+    "id": 546,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "overhead lat"
+  },
+  {
+    "id": 547,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "overhead slam"
+  },
+  {
+    "id": 548,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "overhead squat"
+  },
+  {
+    "id": 549,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "overhead stretch"
+  },
+  {
+    "id": 550,
+    "location": "both",
+    "category": "triceps",
+    "exercise": "overhead triceps"
+  },
+  {
+    "id": 551,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "pallof press with rotation"
+  },
+  {
+    "id": 552,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "palms-down dumbbell wrist curl over a bench"
+  },
+  {
+    "id": 553,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "palms-down wrist curl over a bench"
+  },
+  {
+    "id": 554,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "palms-up barbell wrist curl over a bench"
+  },
+  {
+    "id": 555,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "palms-up dumbbell wrist curl over a bench"
+  },
+  {
+    "id": 556,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "parallel bar dip"
+  },
+  {
+    "id": 557,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "pelvic tilt into bridge"
+  },
+  {
+    "id": 558,
+    "location": "both",
+    "category": "calves",
+    "exercise": "peroneals stretch"
+  },
+  {
+    "id": 559,
+    "location": "both",
+    "category": "calves",
+    "exercise": "peroneals-smr"
+  },
+  {
+    "id": 560,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "physioball hip bridge"
+  },
+  {
+    "id": 561,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "pin presses"
+  },
+  {
+    "id": 562,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "piriformis-smr"
+  },
+  {
+    "id": 563,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "plank"
+  },
+  {
+    "id": 564,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "plank with twist"
+  },
+  {
+    "id": 565,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "plate pinch"
+  },
+  {
+    "id": 566,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "plate twist"
+  },
+  {
+    "id": 567,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "platform hamstring slides"
+  },
+  {
+    "id": 568,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "plie dumbbell squat"
+  },
+  {
+    "id": 569,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "plyo kettlebell pushups"
+  },
+  {
+    "id": 570,
+    "location": "both",
+    "category": "chest",
+    "exercise": "plyo push-up"
+  },
+  {
+    "id": 571,
+    "location": "both",
+    "category": "calves",
+    "exercise": "posterior tibialis stretch"
+  },
+  {
+    "id": 572,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "power clean"
+  },
+  {
+    "id": 573,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "power clean from blocks"
+  },
+  {
+    "id": 574,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "power jerk"
+  },
+  {
+    "id": 575,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "power partials"
+  },
+  {
+    "id": 576,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "power snatch"
+  },
+  {
+    "id": 577,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "power snatch from blocks"
+  },
+  {
+    "id": 578,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "power stairs"
+  },
+  {
+    "id": 579,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "preacher curl"
+  },
+  {
+    "id": 580,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "preacher hammer dumbbell curl"
+  },
+  {
+    "id": 581,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "press sit-up"
+  },
+  {
+    "id": 582,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "prone manual hamstring"
+  },
+  {
+    "id": 583,
+    "location": "outdoor",
+    "category": "hamstrings",
+    "exercise": "prowler sprint"
+  },
+  {
+    "id": 584,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "pull through"
+  },
+  {
+    "id": 585,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "pullups"
+  },
+  {
+    "id": 586,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "push press"
+  },
+  {
+    "id": 587,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "push press - behind the neck"
+  },
+  {
+    "id": 588,
+    "location": "both",
+    "category": "chest",
+    "exercise": "push up to side plank"
+  },
+  {
+    "id": 589,
+    "location": "both",
+    "category": "chest",
+    "exercise": "push-up wide"
+  },
+  {
+    "id": 590,
+    "location": "both",
+    "category": "triceps",
+    "exercise": "push-ups - close triceps position"
+  },
+  {
+    "id": 591,
+    "location": "both",
+    "category": "chest",
+    "exercise": "push-ups with feet elevated"
+  },
+  {
+    "id": 592,
+    "location": "both",
+    "category": "chest",
+    "exercise": "push-ups with feet on an exercise ball"
+  },
+  {
+    "id": 593,
+    "location": "both",
+    "category": "chest",
+    "exercise": "pushups"
+  },
+  {
+    "id": 594,
+    "location": "both",
+    "category": "chest",
+    "exercise": "pushups (close and wide hand positions)"
+  },
+  {
+    "id": 595,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "pyramid"
+  },
+  {
+    "id": 596,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "quad stretch"
+  },
+  {
+    "id": 597,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "quadriceps-smr"
+  },
+  {
+    "id": 598,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "quick leap"
+  },
+  {
+    "id": 599,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "rack delivery"
+  },
+  {
+    "id": 600,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "rack pull with bands"
+  },
+  {
+    "id": 601,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "rack pulls"
+  },
+  {
+    "id": 602,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "rear leg raises"
+  },
+  {
+    "id": 603,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "recumbent bike"
+  },
+  {
+    "id": 604,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "return push from stance"
+  },
+  {
+    "id": 605,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "reverse band bench press"
+  },
+  {
+    "id": 606,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "reverse band box squat"
+  },
+  {
+    "id": 607,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "reverse band deadlift"
+  },
+  {
+    "id": 608,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "reverse band power squat"
+  },
+  {
+    "id": 609,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "reverse band sumo deadlift"
+  },
+  {
+    "id": 610,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "reverse barbell curl"
+  },
+  {
+    "id": 611,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "reverse barbell preacher curls"
+  },
+  {
+    "id": 612,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "reverse cable curl"
+  },
+  {
+    "id": 613,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "reverse crunch"
+  },
+  {
+    "id": 614,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "reverse flyes"
+  },
+  {
+    "id": 615,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "reverse flyes with external rotation"
+  },
+  {
+    "id": 616,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "reverse grip bent-over rows"
+  },
+  {
+    "id": 617,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "reverse grip triceps pushdown"
+  },
+  {
+    "id": 618,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "reverse hyperextension"
+  },
+  {
+    "id": 619,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "reverse machine flyes"
+  },
+  {
+    "id": 620,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "reverse plate curls"
+  },
+  {
+    "id": 621,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "reverse triceps bench press"
+  },
+  {
+    "id": 622,
+    "location": "both",
+    "category": "middle back",
+    "exercise": "rhomboids-smr"
+  },
+  {
+    "id": 623,
+    "location": "outdoor",
+    "category": "forearms",
+    "exercise": "rickshaw carry"
+  },
+  {
+    "id": 624,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "rickshaw deadlift"
+  },
+  {
+    "id": 625,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "ring dips"
+  },
+  {
+    "id": 626,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "rocket jump"
+  },
+  {
+    "id": 627,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "rocking standing calf raise"
+  },
+  {
+    "id": 628,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "rocky pull-ups/pulldowns"
+  },
+  {
+    "id": 629,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "romanian deadlift"
+  },
+  {
+    "id": 630,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "romanian deadlift from deficit"
+  },
+  {
+    "id": 631,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "rope climb"
+  },
+  {
+    "id": 632,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "rope crunch"
+  },
+  {
+    "id": 633,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "rope jumping"
+  },
+  {
+    "id": 634,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "rope straight-arm pulldown"
+  },
+  {
+    "id": 635,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "round the world shoulder stretch"
+  },
+  {
+    "id": 636,
+    "location": "indoor",
+    "category": "stationary",
+    "exercise": "rowing"
+  },
+  {
+    "id": 637,
+    "location": "outdoor",
+    "category": "hamstrings",
+    "exercise": "runner's stretch"
+  },
+  {
+    "id": 638,
+    "location": "indoor",
+    "category": "treadmill",
+    "exercise": "running"
+  },
+  {
+    "id": 639,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "russian twist"
+  },
+  {
+    "id": 640,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "sandbag load"
+  },
+  {
+    "id": 641,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "scapular pull-up"
+  },
+  {
+    "id": 642,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "scissor kick"
+  },
+  {
+    "id": 643,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "scissors jump"
+  },
+  {
+    "id": 644,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "seated band hamstring curl"
+  },
+  {
+    "id": 645,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "seated barbell military press"
+  },
+  {
+    "id": 646,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "seated barbell twist"
+  },
+  {
+    "id": 647,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "seated bent-over one-arm dumbbell triceps extension"
+  },
+  {
+    "id": 648,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "seated bent-over rear delt raise"
+  },
+  {
+    "id": 649,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "seated bent-over two-arm dumbbell triceps extension"
+  },
+  {
+    "id": 650,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "seated biceps"
+  },
+  {
+    "id": 651,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "seated cable rows"
+  },
+  {
+    "id": 652,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "seated cable shoulder press"
+  },
+  {
+    "id": 653,
+    "location": "both",
+    "category": "calves",
+    "exercise": "seated calf raise"
+  },
+  {
+    "id": 654,
+    "location": "both",
+    "category": "calves",
+    "exercise": "seated calf stretch"
+  },
+  {
+    "id": 655,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "seated close-grip concentration barbell curl"
+  },
+  {
+    "id": 656,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "seated dumbbell curl"
+  },
+  {
+    "id": 657,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "seated dumbbell inner biceps curl"
+  },
+  {
+    "id": 658,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "seated dumbbell palms-down wrist curl"
+  },
+  {
+    "id": 659,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "seated dumbbell palms-up wrist curl"
+  },
+  {
+    "id": 660,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "seated dumbbell press"
+  },
+  {
+    "id": 661,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "seated flat bench leg pull-in"
+  },
+  {
+    "id": 662,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "seated floor hamstring stretch"
+  },
+  {
+    "id": 663,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "seated front deltoid"
+  },
+  {
+    "id": 664,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "seated glute"
+  },
+  {
+    "id": 665,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "seated good mornings"
+  },
+  {
+    "id": 666,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "seated hamstring"
+  },
+  {
+    "id": 667,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "seated hamstring and calf stretch"
+  },
+  {
+    "id": 668,
+    "location": "indoor",
+    "category": "neck",
+    "exercise": "seated head harness neck resistance"
+  },
+  {
+    "id": 669,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "seated leg curl"
+  },
+  {
+    "id": 670,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "seated leg tucks"
+  },
+  {
+    "id": 671,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "seated one-arm cable pulley rows"
+  },
+  {
+    "id": 672,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "seated one-arm dumbbell palms-down wrist curl"
+  },
+  {
+    "id": 673,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "seated one-arm dumbbell palms-up wrist curl"
+  },
+  {
+    "id": 674,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "seated overhead stretch"
+  },
+  {
+    "id": 675,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "seated palm-up barbell wrist curl"
+  },
+  {
+    "id": 676,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "seated palms-down barbell wrist curl"
+  },
+  {
+    "id": 677,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "seated side lateral raise"
+  },
+  {
+    "id": 678,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "seated triceps press"
+  },
+  {
+    "id": 679,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "seated two-arm palms-up low-pulley wrist curl"
+  },
+  {
+    "id": 680,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "see-saw press (alternating side press)"
+  },
+  {
+    "id": 681,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "shotgun row"
+  },
+  {
+    "id": 682,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "shoulder circles"
+  },
+  {
+    "id": 683,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "shoulder press - with bands"
+  },
+  {
+    "id": 684,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "shoulder raise"
+  },
+  {
+    "id": 685,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "shoulder stretch"
+  },
+  {
+    "id": 686,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "side bridge"
+  },
+  {
+    "id": 687,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "side hop-sprint"
+  },
+  {
+    "id": 688,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "side jackknife"
+  },
+  {
+    "id": 689,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "side lateral raise"
+  },
+  {
+    "id": 690,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "side laterals to front raise"
+  },
+  {
+    "id": 691,
+    "location": "both",
+    "category": "adductors",
+    "exercise": "side leg raises"
+  },
+  {
+    "id": 692,
+    "location": "both",
+    "category": "adductors",
+    "exercise": "side lying groin stretch"
+  },
+  {
+    "id": 693,
+    "location": "both",
+    "category": "neck",
+    "exercise": "side neck stretch"
+  },
+  {
+    "id": 694,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "side standing long jump"
+  },
+  {
+    "id": 695,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "side to side box shuffle"
+  },
+  {
+    "id": 696,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "side to side chins"
+  },
+  {
+    "id": 697,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "side wrist pull"
+  },
+  {
+    "id": 698,
+    "location": "both",
+    "category": "lats",
+    "exercise": "side-lying floor stretch"
+  },
+  {
+    "id": 699,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "single dumbbell raise"
+  },
+  {
+    "id": 700,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "single leg butt kick"
+  },
+  {
+    "id": 701,
+    "location": "both",
+    "category": "glutes",
+    "exercise": "single leg glute bridge"
+  },
+  {
+    "id": 702,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "single leg push-off"
+  },
+  {
+    "id": 703,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "single-arm cable crossover"
+  },
+  {
+    "id": 704,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "single-arm linear jammer"
+  },
+  {
+    "id": 705,
+    "location": "both",
+    "category": "chest",
+    "exercise": "single-arm push-up"
+  },
+  {
+    "id": 706,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "single-cone sprint drill"
+  },
+  {
+    "id": 707,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "single-leg high box squat"
+  },
+  {
+    "id": 708,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "single-leg hop progression"
+  },
+  {
+    "id": 709,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "single-leg lateral hop"
+  },
+  {
+    "id": 710,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "single-leg leg extension"
+  },
+  {
+    "id": 711,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "single-leg stride jump"
+  },
+  {
+    "id": 712,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "sit squats"
+  },
+  {
+    "id": 713,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "sit-up"
+  },
+  {
+    "id": 714,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "skating"
+  },
+  {
+    "id": 715,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "sled drag - harness"
+  },
+  {
+    "id": 716,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "sled overhead backward walk"
+  },
+  {
+    "id": 717,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "sled overhead triceps extension"
+  },
+  {
+    "id": 718,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "sled push"
+  },
+  {
+    "id": 719,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "sled reverse flye"
+  },
+  {
+    "id": 720,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "sled row"
+  },
+  {
+    "id": 721,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "sledgehammer swings"
+  },
+  {
+    "id": 722,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "smith incline shoulder raise"
+  },
+  {
+    "id": 723,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "smith machine behind the back shrug"
+  },
+  {
+    "id": 724,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "smith machine bench press"
+  },
+  {
+    "id": 725,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "smith machine bent over row"
+  },
+  {
+    "id": 726,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "smith machine calf raise"
+  },
+  {
+    "id": 727,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "smith machine close-grip bench press"
+  },
+  {
+    "id": 728,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "smith machine decline press"
+  },
+  {
+    "id": 729,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "smith machine hang power clean"
+  },
+  {
+    "id": 730,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "smith machine hip raise"
+  },
+  {
+    "id": 731,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "smith machine incline bench press"
+  },
+  {
+    "id": 732,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "smith machine leg press"
+  },
+  {
+    "id": 733,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "smith machine one-arm upright row"
+  },
+  {
+    "id": 734,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "smith machine overhead shoulder press"
+  },
+  {
+    "id": 735,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "smith machine pistol squat"
+  },
+  {
+    "id": 736,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "smith machine reverse calf raises"
+  },
+  {
+    "id": 737,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "smith machine shrug"
+  },
+  {
+    "id": 738,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "smith machine squat"
+  },
+  {
+    "id": 739,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "smith machine stiff-legged deadlift"
+  },
+  {
+    "id": 740,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "smith machine upright row"
+  },
+  {
+    "id": 741,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "smith single-leg split squat"
+  },
+  {
+    "id": 742,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "snatch"
+  },
+  {
+    "id": 743,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "snatch balance"
+  },
+  {
+    "id": 744,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "snatch deadlift"
+  },
+  {
+    "id": 745,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "snatch from blocks"
+  },
+  {
+    "id": 746,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "snatch pull"
+  },
+  {
+    "id": 747,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "snatch shrug"
+  },
+  {
+    "id": 748,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "speed band overhead triceps"
+  },
+  {
+    "id": 749,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "speed band pushdown"
+  },
+  {
+    "id": 750,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "speed box squat"
+  },
+  {
+    "id": 751,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "speed squats"
+  },
+  {
+    "id": 752,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "spell caster"
+  },
+  {
+    "id": 753,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "spider crawl"
+  },
+  {
+    "id": 754,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "spider curl"
+  },
+  {
+    "id": 755,
+    "location": "both",
+    "category": "middle back",
+    "exercise": "spinal stretch"
+  },
+  {
+    "id": 756,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "split clean"
+  },
+  {
+    "id": 757,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "split jerk"
+  },
+  {
+    "id": 758,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "split jump"
+  },
+  {
+    "id": 759,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "split snatch"
+  },
+  {
+    "id": 760,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "split squat with dumbbells"
+  },
+  {
+    "id": 761,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "split squats"
+  },
+  {
+    "id": 762,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "squat jerk"
+  },
+  {
+    "id": 763,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "squat with bands"
+  },
+  {
+    "id": 764,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "squat with chains"
+  },
+  {
+    "id": 765,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "squat with plate movers"
+  },
+  {
+    "id": 766,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "squats - with bands"
+  },
+  {
+    "id": 767,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "stairmaster"
+  },
+  {
+    "id": 768,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing alternating dumbbell press"
+  },
+  {
+    "id": 769,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "standing barbell calf raise"
+  },
+  {
+    "id": 770,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing barbell press behind neck"
+  },
+  {
+    "id": 771,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "standing bent-over one-arm dumbbell triceps extension"
+  },
+  {
+    "id": 772,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "standing bent-over two-arm dumbbell triceps extension"
+  },
+  {
+    "id": 773,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "standing biceps cable curl"
+  },
+  {
+    "id": 774,
+    "location": "both",
+    "category": "biceps",
+    "exercise": "standing biceps stretch"
+  },
+  {
+    "id": 775,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing bradford press"
+  },
+  {
+    "id": 776,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "standing cable chest press"
+  },
+  {
+    "id": 777,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "standing cable lift"
+  },
+  {
+    "id": 778,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "standing cable wood chop"
+  },
+  {
+    "id": 779,
+    "location": "both",
+    "category": "calves",
+    "exercise": "standing calf raises"
+  },
+  {
+    "id": 780,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "standing concentration curl"
+  },
+  {
+    "id": 781,
+    "location": "indoor",
+    "category": "calves",
+    "exercise": "standing dumbbell calf raise"
+  },
+  {
+    "id": 782,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing dumbbell press"
+  },
+  {
+    "id": 783,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "standing dumbbell reverse curl"
+  },
+  {
+    "id": 784,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing dumbbell straight-arm front delt raise above head"
+  },
+  {
+    "id": 785,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "standing dumbbell triceps extension"
+  },
+  {
+    "id": 786,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "standing dumbbell upright row"
+  },
+  {
+    "id": 787,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "standing elevated quad stretch"
+  },
+  {
+    "id": 788,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing front barbell raise over head"
+  },
+  {
+    "id": 789,
+    "location": "both",
+    "category": "calves",
+    "exercise": "standing gastrocnemius calf stretch"
+  },
+  {
+    "id": 790,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "standing hamstring and calf stretch"
+  },
+  {
+    "id": 791,
+    "location": "both",
+    "category": "abductors",
+    "exercise": "standing hip circles"
+  },
+  {
+    "id": 792,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "standing hip flexors"
+  },
+  {
+    "id": 793,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "standing inner-biceps curl"
+  },
+  {
+    "id": 794,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "standing lateral stretch"
+  },
+  {
+    "id": 795,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "standing leg curl"
+  },
+  {
+    "id": 796,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "standing long jump"
+  },
+  {
+    "id": 797,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing low-pulley deltoid raise"
+  },
+  {
+    "id": 798,
+    "location": "both",
+    "category": "triceps",
+    "exercise": "standing low-pulley one-arm triceps extension"
+  },
+  {
+    "id": 799,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing military press"
+  },
+  {
+    "id": 800,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "standing olympic plate hand squeeze"
+  },
+  {
+    "id": 801,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "standing one-arm cable curl"
+  },
+  {
+    "id": 802,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "standing one-arm dumbbell curl over incline bench"
+  },
+  {
+    "id": 803,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "standing one-arm dumbbell triceps extension"
+  },
+  {
+    "id": 804,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "standing overhead barbell triceps extension"
+  },
+  {
+    "id": 805,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing palm-in one-arm dumbbell press"
+  },
+  {
+    "id": 806,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing palms-in dumbbell press"
+  },
+  {
+    "id": 807,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "standing palms-up barbell behind the back wrist curl"
+  },
+  {
+    "id": 808,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "standing pelvic tilt"
+  },
+  {
+    "id": 809,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "standing rope crunch"
+  },
+  {
+    "id": 810,
+    "location": "both",
+    "category": "calves",
+    "exercise": "standing soleus and achilles stretch"
+  },
+  {
+    "id": 811,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "standing toe touches"
+  },
+  {
+    "id": 812,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "standing towel triceps extension"
+  },
+  {
+    "id": 813,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "standing two-arm overhead throw"
+  },
+  {
+    "id": 814,
+    "location": "both",
+    "category": "quadriceps",
+    "exercise": "star jump"
+  },
+  {
+    "id": 815,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "step mill"
+  },
+  {
+    "id": 816,
+    "location": "indoor",
+    "category": "glutes",
+    "exercise": "step-up with knee raise"
+  },
+  {
+    "id": 817,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "stiff leg barbell good morning"
+  },
+  {
+    "id": 818,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "stiff-legged barbell deadlift"
+  },
+  {
+    "id": 819,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "stiff-legged dumbbell deadlift"
+  },
+  {
+    "id": 820,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "stomach vacuum"
+  },
+  {
+    "id": 821,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "straight bar bench mid rows"
+  },
+  {
+    "id": 822,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "straight raises on incline bench"
+  },
+  {
+    "id": 823,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "straight-arm dumbbell pullover"
+  },
+  {
+    "id": 824,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "straight-arm pulldown"
+  },
+  {
+    "id": 825,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "stride jump crossover"
+  },
+  {
+    "id": 826,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "sumo deadlift"
+  },
+  {
+    "id": 827,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "sumo deadlift with bands"
+  },
+  {
+    "id": 828,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "sumo deadlift with chains"
+  },
+  {
+    "id": 829,
+    "location": "both",
+    "category": "lower back",
+    "exercise": "superman"
+  },
+  {
+    "id": 830,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "supine chest throw"
+  },
+  {
+    "id": 831,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "supine one-arm overhead throw"
+  },
+  {
+    "id": 832,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "supine two-arm overhead throw"
+  },
+  {
+    "id": 833,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "suspended push-up"
+  },
+  {
+    "id": 834,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "suspended reverse crunch"
+  },
+  {
+    "id": 835,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "suspended row"
+  },
+  {
+    "id": 836,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "suspended split squat"
+  },
+  {
+    "id": 837,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "t-bar row with handle"
+  },
+  {
+    "id": 838,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "tate press"
+  },
+  {
+    "id": 839,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "the straddle"
+  },
+  {
+    "id": 840,
+    "location": "both",
+    "category": "abductors",
+    "exercise": "thigh abductor"
+  },
+  {
+    "id": 841,
+    "location": "both",
+    "category": "adductors",
+    "exercise": "thigh adductor"
+  },
+  {
+    "id": 842,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "tire flip"
+  },
+  {
+    "id": 843,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "toe touchers"
+  },
+  {
+    "id": 844,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "torso rotation"
+  },
+  {
+    "id": 845,
+    "location": "outdoor",
+    "category": "quadriceps",
+    "exercise": "trail running/walking"
+  },
+  {
+    "id": 846,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "trap bar deadlift"
+  },
+  {
+    "id": 847,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "tricep dumbbell kickback"
+  },
+  {
+    "id": 848,
+    "location": "both",
+    "category": "triceps",
+    "exercise": "tricep side stretch"
+  },
+  {
+    "id": 849,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "triceps overhead extension with rope"
+  },
+  {
+    "id": 850,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "triceps pushdown"
+  },
+  {
+    "id": 851,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "triceps pushdown - rope attachment"
+  },
+  {
+    "id": 852,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "triceps pushdown - v-bar attachment"
+  },
+  {
+    "id": 853,
+    "location": "both",
+    "category": "triceps",
+    "exercise": "triceps stretch"
+  },
+  {
+    "id": 854,
+    "location": "both",
+    "category": "abdominals",
+    "exercise": "tuck crunch"
+  },
+  {
+    "id": 855,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "two-arm dumbbell preacher curl"
+  },
+  {
+    "id": 856,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "two-arm kettlebell clean"
+  },
+  {
+    "id": 857,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "two-arm kettlebell jerk"
+  },
+  {
+    "id": 858,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "two-arm kettlebell military press"
+  },
+  {
+    "id": 859,
+    "location": "indoor",
+    "category": "middle back",
+    "exercise": "two-arm kettlebell row"
+  },
+  {
+    "id": 860,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "underhand cable pulldowns"
+  },
+  {
+    "id": 861,
+    "location": "both",
+    "category": "middle back",
+    "exercise": "upper back stretch"
+  },
+  {
+    "id": 862,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "upper back-leg grab"
+  },
+  {
+    "id": 863,
+    "location": "indoor",
+    "category": "shoulders",
+    "exercise": "upright barbell row"
+  },
+  {
+    "id": 864,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "upright cable row"
+  },
+  {
+    "id": 865,
+    "location": "indoor",
+    "category": "traps",
+    "exercise": "upright row - with bands"
+  },
+  {
+    "id": 866,
+    "location": "both",
+    "category": "shoulders",
+    "exercise": "upward stretch"
+  },
+  {
+    "id": 867,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "v-bar pulldown"
+  },
+  {
+    "id": 868,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "v-bar pullup"
+  },
+  {
+    "id": 869,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "vertical swing"
+  },
+  {
+    "id": 870,
+    "location": "indoor",
+    "category": "treadmill",
+    "exercise": "walking"
+  },
+  {
+    "id": 871,
+    "location": "indoor",
+    "category": "lower back",
+    "exercise": "weighted ball hyperextension"
+  },
+  {
+    "id": 872,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "weighted ball side bend"
+  },
+  {
+    "id": 873,
+    "location": "indoor",
+    "category": "triceps",
+    "exercise": "weighted bench dip"
+  },
+  {
+    "id": 874,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "weighted crunches"
+  },
+  {
+    "id": 875,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "weighted jump squat"
+  },
+  {
+    "id": 876,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "weighted pull ups"
+  },
+  {
+    "id": 877,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "weighted sissy squat"
+  },
+  {
+    "id": 878,
+    "location": "indoor",
+    "category": "abdominals",
+    "exercise": "weighted sit-ups - with bands"
+  },
+  {
+    "id": 879,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "weighted squat"
+  },
+  {
+    "id": 880,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "wide stance barbell squat"
+  },
+  {
+    "id": 881,
+    "location": "indoor",
+    "category": "hamstrings",
+    "exercise": "wide stance stiff legs"
+  },
+  {
+    "id": 882,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "wide-grip barbell bench press"
+  },
+  {
+    "id": 883,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "wide-grip decline barbell bench press"
+  },
+  {
+    "id": 884,
+    "location": "indoor",
+    "category": "chest",
+    "exercise": "wide-grip decline barbell pullover"
+  },
+  {
+    "id": 885,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "wide-grip lat pulldown"
+  },
+  {
+    "id": 886,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "wide-grip pulldown behind the neck"
+  },
+  {
+    "id": 887,
+    "location": "indoor",
+    "category": "lats",
+    "exercise": "wide-grip rear pull-up"
+  },
+  {
+    "id": 888,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "wide-grip standing barbell curl"
+  },
+  {
+    "id": 889,
+    "location": "outdoor",
+    "category": "abdominals",
+    "exercise": "wind sprints"
+  },
+  {
+    "id": 890,
+    "location": "both",
+    "category": "abductors",
+    "exercise": "windmills"
+  },
+  {
+    "id": 891,
+    "location": "both",
+    "category": "hamstrings",
+    "exercise": "world's greatest stretch"
+  },
+  {
+    "id": 892,
+    "location": "both",
+    "category": "forearms",
+    "exercise": "wrist circles"
+  },
+  {
+    "id": 893,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "wrist roller"
+  },
+  {
+    "id": 894,
+    "location": "indoor",
+    "category": "forearms",
+    "exercise": "wrist rotations with straight bar"
+  },
+  {
+    "id": 895,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "yoke walk"
+  },
+  {
+    "id": 896,
+    "location": "indoor",
+    "category": "quadriceps",
+    "exercise": "zercher squats"
+  },
+  {
+    "id": 897,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "zottman curl"
+  },
+  {
+    "id": 898,
+    "location": "indoor",
+    "category": "biceps",
+    "exercise": "zottman preacher curl"
+  }
+]
