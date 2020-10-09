@@ -1,78 +1,107 @@
+
 form.signup,
 form.login {
-  margin-top: 50px;
+  margin-top: 15px;
 }
 
-.loginBody {
-  background-image: url(../img/workoutComputer.jpg);
-  background-position: center;
+#logo {
+  image-rendering: optimizeQuality;
+}
+
+#loginBody, #signupBody {
+  background-image: url(../img/weights.jpg);
+  background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
   font-family: Arial, Helvetica, sans-serif;
-  
 }
 
-.loginBody p, .loginBody label, .loginBody h2 {
+#loginBody p, #signupBody p {
  color: #2d3e50;
  font-weight: 550;
 }
 
-.loginBody button, .loginBody a {
-  color: #1f8dd6;
+#loginBody h2, #signupBody h2 {
+  color: #2d3e50;
   font-weight: 700;
+  border: none;
+}
+
+#loginBody a, #loginBody label {
+  color: #1f8dd6;
+  font-weight: 550;
+}
+
+#loginBody button {
+  color: #1f8dd6;
+  background-color: #2d3e50;
   border: none;
 }
 
 .navbar { 
-  color: #1f8dd6;
-  font-size: xx-large;
+  color:#1f8dd6;
+  font-size: 40px;
   font-weight: 650;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #2d3e50;
   border-style: none;
-  /* margin-left: .5em; */
 }
 
-.signupBody {
-  background-image: url(../img/weights.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  font-family: Arial, Helvetica, sans-serif;
+.navbar-default {
+  background-color: rgb(0,0,0,.01);
 }
 
-/* .signupBody .card-head {
-  background: rgb(147, 157, 177);
-  color: #1f8dd6;
-} */
+.navbar-header {
+  margin-left: .3em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
 
-/* .signupBody .card-body { 
- background: rgb(165, 156, 156);
- color: #1f8dd6;
-} */
+#loginBody .col-md-5 {
+  background-image: linear-gradient(rgb(147, 157, 177, 0.01), #a8c5e4, rgb(147, 157, 177, 0.01));
+  border: #2d3e50;
+  margin-left: 1em;
+}
 
-/* .col-md-5 {
-  background-image: linear-gradient(#2d3e50, rgb(147, 157, 177));
-  background-blend-mode: lighten;
-} */
+#signupBody .col-md-5 {
+  background-image: linear-gradient(rgb(147, 157, 177, 0.01), #a8c5e4, rgb(147, 157, 177, 0.01));
+  border: #2d3e50;
+  margin-left: 1em;
+}
 
-.signupBody h2, .signupBody label {
+ #signupBody label {
   color: #1f8dd6;
   font-weight: 550;
-  opacity: 1;
 }
 
-.signupBody button, .signupBody a {
+#signupBody button {
+  color: #1f8dd6;
+  background-color: #2d3e50;
+  font-weight: 700;
+  border: none;
+}
+#signupBody a {
   color: #1f8dd6;
   font-weight: 700;
-  opacity: 1;
   border: none;
-
 }
 
-.signupBody p {
-  color: #2d3e50;
-  font-weight: 550;
-  opacity: 1;
+
+@media only screen and (max-width: 900px) {
+  #signupBody, #loginBody {
+    background-image: url(../img/weights3.jpeg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+  }
 }
 
+@media only screen and (max-width: 500px) {
+  #signupBody, #loginBody {
+    background-image: url(../img/weights2.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
