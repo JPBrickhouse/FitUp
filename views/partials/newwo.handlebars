@@ -6,11 +6,12 @@
         <h2 class="content-head content-head-ribbon">Where would you like to work out?</h2>
 
         <select id="indoorOutdoorSelect">
-            <option selected="true" disabled="disabled">Select Here</option>
-            <option value="indoor">indoor</option>
+            <option selected="true" value="indoor">indoor</option>
             <option value="outdoor">outdoor</option>
         </select>
-
+        </br>
+        <!-- Google map showing local gyms or parks based on user selection -->
+        <iframe id="map" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/search?key={{googleApiKey}}&q=gym"></iframe>
     </div>
 </div>
 
