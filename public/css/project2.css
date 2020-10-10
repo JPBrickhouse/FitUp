@@ -1,4 +1,48 @@
+#logout {
+    color: black;
+    padding: 20px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 10%;
+    background-color: white;
+}
 
+#indoorOudoorText{
+    text-align: center;
+    align-items: center;
+}
+
+#categorySelect{
+    width: 150px;
+    height: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    display: block;
+    justify-content: center;
+}
+
+#indoorOutdoorSelect{
+    width: 170px;
+    height: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-content: center;
+}
+#savebtn{
+    font-family: Hack, monospace;
+    background: #9ebfe3;
+    color: #2c2c2c;
+    cursor: pointer;
+    font-size: 2em;
+    padding: 1.5rem;
+    border: 0;
+    transition: all 0.5s;
+    border-radius: 10px;
+    width: auto;
+    position: relative;
+    min-width: 250px;
+}
 .dropdownContainer {
 border-radius: 10%;
 border-style: solid;
