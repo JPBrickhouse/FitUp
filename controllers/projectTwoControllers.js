@@ -21,4 +21,21 @@ module.exports = function (app) {
         })
     })
 
+    // app.get("/api/exDisplay", function (req, res) {
+        
+    //     console.log("Call made")
+    //     console.log(req.query)
+
+    //     // var exercisename = req.query;
+
+    //     // var exercisename = {
+    //     //     exercise: "Hello"
+    //     // }
+
+    //     var test = {
+    //         Dog: "AGAIN"
+    //     }
+
+    //     res.render("partials/test", test);
+    // })
 }

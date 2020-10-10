@@ -2,19 +2,15 @@
 // Switching or updating the data attribute of the div containing the new workout
 $(".nbtn").on("click", function (event) {
     event.preventDefault();
-
     $("#newWorkoutDiv").show();
     $("#savedWorkoutDiv").hide();
-
 })
 
 // Switching or updating the data attribute of the div containing the saved workout
 $(".sbtn").on("click", function (event) {
     event.preventDefault();
-
     $("#newWorkoutDiv").hide();
     $("#savedWorkoutDiv").show();
-
 })
 
 // --------------------------------------
@@ -53,10 +49,9 @@ $("#categorySelect").change(function (event) {
     }
 })
 
-// Getting the exercises function
+// gettingTheExercises function
+// Goes into the database and gets exercises based on user selected dropdown values
 function gettingTheExercises() {
-    console.log("function was called");
-    console.log(indoorOutdoorVar, categoryVar);
 
     var selectionData = {
         location: indoorOutdoorVar,
@@ -70,14 +65,77 @@ function gettingTheExercises() {
         method: "GET",
         url: "/api/exerciselist",
         data: selectionData
-    }).then(
-        function (response) {
-            console.log(response)
+    }).then(function (response) {
+        // Running a callback function with the response (where response
+        // consists of all the exercises that met the selectionData criteria
+        // that we passed to the ajax call)
 
-            // CONTINUE FROM HERE
+        var exerciseCount = response.length
+
+        // If no exercises are 
+        if (exerciseCount === 0) {
+            $("#exerciseDisplay").hide();
+            $("#noExercisesFound").text("No exercises found, please try again!")
+        }
+        // Otherwise, display those exercises
+        else {
+            $("#noExercisesFound").hide();
+
+            var maxLoopLength = Math.min(exerciseCount, 10)
+
+            var miniArrayOfExercises = []
+            // var miniObjectOfObjects = {}
+
+            // Looping through the responses and getting a random selection
+            for (var i = 0; i < maxLoopLength; i++) {
+                // Geting a random number from 0 to (exerciseCount - 1)
+                var randomIndex = Math.floor((Math.random() * exerciseCount));
+                miniArrayOfExercises.push(response[randomIndex])
+
+                // var exerciseID = response[randomIndex].id;
+                // miniObjectOfObjects[exerciseID] = response[randomIndex]
+            }
+
+            console.log(miniArrayOfExercises);
+            // console.log(miniObjectOfObjects);
+
             // GENERATE THE EXERCISE CARDS
-            // HANDLEBARS TEMPLATING
+
+            // Empty all the cards
+            $("#exerciseDisplay").empty();
+
+            // Generate all the new cards
+            for (var j = 0; j < miniArrayOfExercises.length; j++) {
+
+                // Building the exercise card
+                var newExerciseCard = $("<div>");
+                newExerciseCard.addClass("card");
+                newExerciseCard.addClass("generatedExercise")
+                newExerciseCard.text(miniArrayOfExercises[j].exercise)
+                newExerciseCard.attr("data-exerciseID", miniArrayOfExercises[j].id)
+                // Building the save to workout button
+                var exerciseButton = $("<button>")
+                exerciseButton.text("Save to workout")
+                exerciseButton.addClass("genExButton")
+                exerciseButton.attr("data-exerciseID", miniArrayOfExercises[j].id)
+                newExerciseCard.append(exerciseButton)
+                // Appending the card to the div
+                $("#exerciseDisplay").append(newExerciseCard);
+            }
+
+            // Showing the div, now that everything is displayed
+            $("#exerciseDisplay").show();
+
+            // $.ajax({
+            //     method: "GET",
+            //     url: "/api/exDisplay",
+            //     data: miniObjectOfObjects // need to pass an object
+            // })
+            // .then(function () {
+            //     console.log("Get made")
+            // })
 
         }
-    )
+
+    });
 }
