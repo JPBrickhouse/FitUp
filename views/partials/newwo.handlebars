@@ -3,19 +3,20 @@
     </div>
     <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
 
-        <h2 class="content-head content-head-ribbon">Where would you like to work out?</h2>
+        <h2 id="Wtext" class="content-head content-head-ribbon">Where would you like to work out?</h2>
 
         <select id="indoorOutdoorSelect">
-            <option selected="true" disabled="disabled">Select Here</option>
-            <option value="indoor">indoor</option>
+            <option selected="true" value="indoor">indoor</option>
             <option value="outdoor">outdoor</option>
         </select>
-
+        </br>
+        <!-- Google map showing local gyms or parks based on user selection -->
+        <iframe id="map" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/search?key={{googleApiKey}}&q=gym"></iframe>
     </div>
 </div>
 
 <div class="content">
-    <h2 class="content-head is-center"> Select Category </h2>
+    <h2 class="content-head is-center"> Category </h2>
 
     <form>
         <select id="categorySelect">
@@ -46,20 +47,17 @@
 
 </div>
 
-
-
-
-
-<div class="ribbon l-box-lrg pure-g">
+<div class="ribbons l-box-lrg pure-g">
     <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
     </div>
     <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
 
-        <h2 class="content-head content-head-ribbon">Exercises to choose from!</h2>
+        <h2 id="fulltext" class="content-head content-head-ribbon">FULL Workout</h2>
 
         <div>
             {{!-- Div that will display text if no exercises are found --}}
             <div id="noExercisesFound"></div>
+
 
             {{!-- Div that will display a selection of exercises if any are found --}}
             <div id="exerciseDisplay">
@@ -68,26 +66,31 @@
 
             </div>
         </div>
+
+        <button id="savebtn" type="button">Save Workout</button>
     </div>
 </div>
 
-<div class="ribbons l-box-lrg pure-g">
+
+
+
+
+
+{{!-- <div class="ribbon l-box-lrg pure-g">
     <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
     </div>
     <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
 
-        <h2 class="content-head content-head-ribbon">FULL Workout</h2>
+        <h2 class="content-head content-head-ribbon">Exercises to choose from!</h2>
 
         <div>
             {{!-- linking category --}}
 
 
-            {{!-- WHEN an exercises is saved, it gets displayed here with all the others --}}
+{{!-- PLACE WHERE THE RANDOM EXERCISES GET DISPLAYED --}}
+{{!-- Each exercise will have a save button --}}
 
 
-
-        </div>
-
-
-    </div>
 </div>
+</div>
+</div> --}}
