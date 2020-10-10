@@ -2,6 +2,7 @@
 var express = require("express");
 const session = require("express-session");
 const passport = require("./config/passport");
+require('dotenv').config();
 
 // Sets up the Express App
 var app = express();
@@ -14,9 +15,12 @@ var db = require("./models");
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// Set Handlebars.
+// Store google api key from environment
+const google_api_key  = process.env.GOOGLE_API_KEY;
+
+// Set Handlebars.  
 var exphbs = require("express-handlebars");
-app.engine("handlebars", exphbs({ defaultLayout: "main" }));
+app.engine("handlebars", exphbs({ defaultLayout: "main", helpers: {googleApiKey: function() { return google_api_key; }}}));
 app.set("view engine", "handlebars");
 
 // Serve static content for the app from the "public" directory in the application directory.

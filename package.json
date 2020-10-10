@@ -30,7 +30,8 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "sequelize": "^6.3.5",
-    "sequelize-auto": "^0.6.3"
+    "sequelize-auto": "^0.6.3",
+    "dotenv": "8.2.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
