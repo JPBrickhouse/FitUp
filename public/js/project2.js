@@ -22,6 +22,7 @@ $(".sbtn").on("click", function (event) {
     event.preventDefault();
     $("#newWorkoutDiv").hide();
     $("#savedWorkoutDiv").show();
+    scrollToElement("#savedWorkoutDiv");
 
 })
 
