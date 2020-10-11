@@ -6,8 +6,8 @@
         <h2 id="Wtext" class="content-head content-head-ribbon">Where would you like to work out?</h2>
 
         <select id="indoorOutdoorSelect">
-            <option selected="true" value="indoor">indoor</option>
-            <option value="outdoor">outdoor</option>
+            <option selected="true" value="indoor">Indoor</option>
+            <option value="outdoor">Outdoor</option>
         </select>
         </br>
         <!-- Google map showing local gyms or parks based on user selection -->
@@ -22,25 +22,25 @@
     <form>
         <select id="categorySelect">
             <option selected="true" disabled="disabled">Select Here</option>
-            <option value="abdominals">abdominals</option>
-            <option value="abductors">abductors</option>
-            <option value="adductors">adductors</option>
-            <option value="biceps">biceps</option>
-            <option value="calves">calves</option>
-            <option value="chest">chest</option>
-            <option value="forearms">forearms</option>
-            <option value="glutes">glutes</option>
-            <option value="hamstrings">hamstrings</option>
-            <option value="lats">lats</option>
-            <option value="lower back">lower back</option>
-            <option value="middle back">middle back</option>
-            <option value="neck">neck</option>
-            <option value="quadriceps">quadriceps</option>
-            <option value="shoulders">shoulders</option>
-            <option value="stationary">stationary</option>
-            <option value="traps">traps</option>
-            <option value="treadmill">treadmill</option>
-            <option value="triceps">triceps</option>
+            <option value="abdominals">Abdominals</option>
+            <option value="abductors">Abductors</option>
+            <option value="adductors">Adductors</option>
+            <option value="biceps">Biceps</option>
+            <option value="calves">Calves</option>
+            <option value="chest">Chest</option>
+            <option value="forearms">Forearms</option>
+            <option value="glutes">Glutes</option>
+            <option value="hamstrings">Hamstrings</option>
+            <option value="lats">Lats</option>
+            <option value="lower back">Lower back</option>
+            <option value="middle back">Middle back</option>
+            <option value="neck">Neck</option>
+            <option value="quadriceps">Quadriceps</option>
+            <option value="shoulders">Shoulders</option>
+            <option value="stationary">Stationary</option>
+            <option value="traps">Traps</option>
+            <option value="treadmill">Treadmill</option>
+            <option value="triceps">Triceps</option>
         </select>
     </form>
 
@@ -53,21 +53,47 @@
     </div>
     <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
 
-        <h2 id="fulltext" class="content-head content-head-ribbon">FULL Workout</h2>
+        {{!-- Place where the full workout will be displayed,
+        based on what the user displays and then saves --}}
+        <h2 id="fulltext" class="content-head content-head-ribbon">Exercises to choose from</h2>
 
         <div>
             {{!-- Div that will display text if no exercises are found --}}
             <div id="noExercisesFound"></div>
 
-
             {{!-- Div that will display a selection of exercises if any are found --}}
-            <div id="exerciseDisplay">
-
-                {{!-- Each exercise will have a save button --}}
-
-            </div>
+            <div id="exerciseDisplay"></div>
         </div>
 
+        {{!-- ------------------------------------------ --}}
+        {{!-- REVISE THIS BUTTON LOCATION --}}
         <button id="savebtn" type="button">Save Workout</button>
+        {{!-- ------------------------------------------ --}}
+
+    </div>
+</div>
+
+
+
+{{!-- ------------------------------------------ --}}
+{{!-- NEEDS A DIFFERENT COLOR SCHEME --}}
+{{!-- ------------------------------------------ --}}
+<div class="ribbons l-box-lrg pure-g">
+    <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+    </div>
+    <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+        {{!-- Place where the full workout will be displayed,
+        based on what the user displays and then saves --}}
+        <h2 id="fulltext" class="content-head content-head-ribbon">Built workout!</h2>
+
+
+        {{!-- ------------------------------------------ --}}
+        {{!-- ALL THE STORED EXERCISES GO HERE --}}
+        {{!-- ------------------------------------------ --}}
+        {{!-- SAVE WORKOUT BUTTON GOES HERE --}}
+        {{!-- ------------------------------------------ --}}
+
+
     </div>
 </div>

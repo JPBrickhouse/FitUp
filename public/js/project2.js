@@ -1,12 +1,18 @@
 // Switching or updating the data attribute of the div containing the new workout
 $(".nbtn").on("click", function (event) {
     event.preventDefault();
+    
+    // Showing the newWorkoutDiv and hiding the savedWorkoutDiv
     $("#newWorkoutDiv").show();
     $("#savedWorkoutDiv").hide();
+    
+    // Calling the scrollToElement function
     scrollToElement("#newWorkoutDiv");
-
 })
 
+// scrollToElement function
+// After a user selects new or saved workout
+// The page that dynamically moves the user to a specific location
 function scrollToElement(selector, callback) {
     var animation = { scrollTop: $(selector).offset().top };
     $('html,body').animate(animation, 'slow', 'swing', function () {
@@ -20,17 +26,23 @@ function scrollToElement(selector, callback) {
 // Switching or updating the data attribute of the div containing the saved workout
 $(".sbtn").on("click", function (event) {
     event.preventDefault();
+   
+    // Showing the savedWorkoutDiv and hiding the newWorkoutDiv
     $("#newWorkoutDiv").hide();
     $("#savedWorkoutDiv").show();
 
+    // Calling the scrollToElement function
+    scrollToElement("#savedWorkoutDiv");
 })
+
+// ---------------------------------------------------------------------------
 
 // Saved workout routed to list 
 $("#savebtn").on("click", function () {
     alert("Hi");
 });
 
-// --------------------------------------
+// ---------------------------------------------------------------------------
 
 // Making the variables global for use in the functions
 var indoorOutdoorVar = 0;
@@ -98,10 +110,11 @@ function gettingTheExercises() {
 
         var exerciseCount = response.length
 
-        // If no exercises are 
+        // If no exercises are found
         if (exerciseCount === 0) {
             $("#exerciseDisplay").hide();
             $("#noExercisesFound").text("No exercises found, please try again!")
+            $("#noExercisesFound").show();
         }
         // Otherwise, display those exercises
         else {
@@ -165,3 +178,27 @@ function gettingTheExercises() {
 
     });
 }
+
+
+
+
+
+// jquery's .on() method DOES NOT bind to future elements by default...
+// This code binds the click event to FUTURE elements that are added
+// to the DOM with a class of “generatedExercise”
+// Sourced from: http://clarkeulmer.com/bind-events-to-future-elements-using-jquerys-on/
+$(document).on("click",".generatedExercise",function(){
+    var exerciseID = $(this).attr("data-exerciseID")
+
+    alert(exerciseID);
+
+
+
+    // CONTINUE FROM HERE
+
+
+    
+
+})
+
+
