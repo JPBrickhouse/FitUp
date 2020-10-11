@@ -30,6 +30,7 @@ $(".sbtn").on("click", function (event) {
     // Showing the savedWorkoutDiv and hiding the newWorkoutDiv
     $("#newWorkoutDiv").hide();
     $("#savedWorkoutDiv").show();
+    scrollToElement("#savedWorkoutDiv");
 
     // Calling the scrollToElement function
     scrollToElement("#savedWorkoutDiv");
