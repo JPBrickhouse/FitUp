@@ -1,17 +1,34 @@
-
 // Switching or updating the data attribute of the div containing the new workout
 $(".nbtn").on("click", function (event) {
     event.preventDefault();
     $("#newWorkoutDiv").show();
     $("#savedWorkoutDiv").hide();
+    scrollToElement("#newWorkoutDiv");
+
 })
+
+function scrollToElement(selector, callback) {
+    var animation = { scrollTop: $(selector).offset().top };
+    $('html,body').animate(animation, 'slow', 'swing', function () {
+        if (typeof callback == 'function') {
+            callback();
+        }
+        callback = null;
+    });
+}
 
 // Switching or updating the data attribute of the div containing the saved workout
 $(".sbtn").on("click", function (event) {
     event.preventDefault();
     $("#newWorkoutDiv").hide();
     $("#savedWorkoutDiv").show();
+
 })
+
+// Saved workout routed to list 
+$("#savebtn").on("click", function () {
+    alert("Hi");
+});
 
 // --------------------------------------
 
@@ -27,13 +44,13 @@ $("#indoorOutdoorSelect").change(function (event) {
     indoorOutdoorVar = document.getElementById("indoorOutdoorSelect").value
 
 
-     // retrieve google api link without the query parameter
-     var mapLink = $('#map').attr('src');
-     var mapBaseLink = mapLink.split("q=")[0];
- 
-     // set the new link based on workout location value selected
-     var updatedMapLink = mapBaseLink + (indoorOutdoorVar == "indoor" ? "q=gym" : "q=park");
-     $('#map').attr("src", updatedMapLink);
+    // retrieve google api link without the query parameter
+    var mapLink = $('#map').attr('src');
+    var mapBaseLink = mapLink.split("q=")[0];
+
+    // set the new link based on workout location value selected
+    var updatedMapLink = mapBaseLink + (indoorOutdoorVar == "indoor" ? "q=gym" : "q=park");
+    $('#map').attr("src", updatedMapLink);
 
     // If both a location and category have been selected
     // (i.e. the values of the variables is no longer equal to zero)
