@@ -3,7 +3,7 @@ const { Op } = require("sequelize");
 const db = require("../models");
 
 module.exports = function (app) {
-
+    // ---------------------------------------------------------------------------
     // Get all of the exercises that match the location and category
     app.get("/api/exerciselist", function (req, res) {
 
@@ -20,10 +20,9 @@ module.exports = function (app) {
             res.json(exercises)
         })
     })
-
+    // ---------------------------------------------------------------------------
     // Get all the exercises based on ID
     app.get("/api/workoutList", function (req, res) {
-        
         // Using sequelize
         db.Exercise.findAll({
             where: {
@@ -33,5 +32,19 @@ module.exports = function (app) {
             res.send(exercise)
         })
     })
-
+    // ---------------------------------------------------------------------------
+    // Store the grouped exercises as a workout
+    app.post("/api/saveworkout", function (req, res) {
+        // Using sequelize
+        db.Storedworkout.create({
+            userid: req.body.userid,
+            email: req.body.email,
+            workout: req.body.workout
+        }).then(() => {
+            res.status(200)
+        }).catch(err => {
+            res.status(401).json(err);
+        });
+    })
+    // ---------------------------------------------------------------------------
 }
