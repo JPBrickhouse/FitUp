@@ -21,22 +21,17 @@ module.exports = function (app) {
         })
     })
 
-    // app.get("/api/exDisplay", function (req, res) {
-
-    //     console.log("Call made")
-    //     console.log(req.query)
-
-    //     // var exercisename = req.query;
-
-    //     // var exercisename = {
-    //     //     exercise: "Hello"
-    //     // }
-
-    //     var test = {
-    //         Dog: "AGAIN"
-    //     }
-
-    //     res.render("partials/test", test);
-    // })
+    // Get all the exercises based on ID
+    app.get("/api/workoutList", function (req, res) {
+        
+        // Using sequelize
+        db.Exercise.findAll({
+            where: {
+                id: req.query.id
+            }
+        }).then(function (exercise) {
+            res.send(exercise)
+        })
+    })
 
 }
