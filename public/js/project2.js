@@ -155,7 +155,7 @@ function gettingTheExercises() {
                 // Building the exercise card
                 var newExerciseCard = $("<div>");
                 newExerciseCard.addClass("card");
-                newExerciseCard.addClass("generatedExercise")
+                newExerciseCard.addClass("generatedExercise");
                 newExerciseCard.text(miniArrayOfExercises[j].exercise)
                 newExerciseCard.attr("data-exerciseID", miniArrayOfExercises[j].id)
                 // Building the save to workout button
@@ -205,6 +205,7 @@ function showTheCollectedExercises() {
     // Building a single new card for all the exercises
     var newWorkoutCard = $("<div>");
     newWorkoutCard.addClass("card");
+    newWorkoutCard.addClass("workoutCard");
 
     // Going through all the values in the collectedExercises array
     for (var k = 0; k < collectedExercises.length; k++) {

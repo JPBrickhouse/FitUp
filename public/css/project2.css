@@ -1,3 +1,7 @@
+body, html {
+    height:100%;
+}
+
 .first {
     align-content: center;
     align-items: center;
@@ -5,14 +9,15 @@
 
 #logout {
     color: #2d3e50;
-    padding: 10px;
+    padding: 50px, 20px, 10px;
     border-color: white;
     border-style: solid;
     border-radius: 10%;
     background-color: white;
     font-weight: 600;
+    font-size: 150%;
     margin: .5em;
-    padding-top: 30px;
+    z-index: 3;
 }
 .genExButton {
     background-color: #2d3e50;
@@ -22,39 +27,50 @@
     /* border-style: solid; */
     border: none;
     text-align: center;
-    /* max-width: %; */
-    margin: .2em;
+    /* max-width: 250px; */
+    margin: .3em;
+    font-weight: 500;
+   
 }
 .generatedExercise {
     margin-left: 10%;
     margin-top: .5em;
+    width: auto;
     max-width: 80%;
-    /* align-items: center; */
+    align-items: center;
     background-color: white;
     color: #2d3e50;
     text-align: center;
+    font-size: 130%;
+    font-weight: 600;
+    text-transform: capitalize;
 }
 
 #exerciseDisplay {
     align-content: center;
+    font-weight: 600;
 }
 
 #categorySelect{
-    width: 150px;
+    width: 170px;
     height: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    align-items: center;
-    text-align: center;
-    align-content: center;
-    display: block;
+    /* align-items: center; */
+    /* text-align: center; */
+    /* align-content: center; */
+    /* display: block; */
     justify-content: center;
+    margin: .2em;
+    font-weight: 700;
 }
 
 #indoorOutdoorSelect{
     width: 170px;
     height: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    align-content: center;
+    /* align-content: center; */
+    margin: .2em;
+    font-weight: 700;
 }
 
 #savebtn{
@@ -71,7 +87,7 @@
     position: relative;
     min-width: 50%;
     margin-top: .2em;
-    margin-left: 25%;
+    /* margin-left: 25%; */
 
 }
 
@@ -214,7 +230,11 @@ color: #AECFE5;
 
 
 .splash-container {
-background: #1f8dd6;
+background-image: url(../img/blueUrchinTall.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-color: #1f8dd6;
+background-size: cover;
 z-index: 1;
 overflow: hidden;
 /* The following styles are required for the "scroll-over" effect */
@@ -315,6 +335,11 @@ color: white;
 .first {
     background: #17416f;
     color: #aaa;
+}
+
+.builtWorkout {
+    background: #1f8dd6;
+    color: white
 }
 
 /* This is the class used for the footer */
@@ -479,8 +504,16 @@ display: block;
         }
         
     } */
-
-
+.fullWorkoutDisplay {
+    color: #2d3e50;
+}
+.workoutCard {
+    color: #2d3e50;
+    font-size: 180%;
+    font-weight: 450;
+    align-content: center;
+    text-align: center;
+}
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
