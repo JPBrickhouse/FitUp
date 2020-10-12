@@ -1,10 +1,42 @@
+.first {
+    align-content: center;
+    align-items: center;
+}
+
 #logout {
-    color: black;
-    padding: 20px;
+    color: #2d3e50;
+    padding: 10px;
     border-color: white;
     border-style: solid;
     border-radius: 10%;
     background-color: white;
+    font-weight: 600;
+    margin: .5em;
+    padding-top: 30px;
+}
+.genExButton {
+    background-color: #2d3e50;
+    color: white;
+    /* background-color: rgb(147, 157, 177); */
+    /* border-color: white; */
+    /* border-style: solid; */
+    border: none;
+    text-align: center;
+    /* max-width: %; */
+    margin: .2em;
+}
+.generatedExercise {
+    margin-left: 10%;
+    margin-top: .5em;
+    max-width: 80%;
+    /* align-items: center; */
+    background-color: white;
+    color: #2d3e50;
+    text-align: center;
+}
+
+#exerciseDisplay {
+    align-content: center;
 }
 
 #categorySelect{
@@ -27,8 +59,8 @@
 
 #savebtn{
     font-family: Hack, monospace;
-    background: #9ebfe3;
-    color: #2c2c2c;
+    background-color: #1f8dd6 ;
+    color: white;
     cursor: pointer;
     font-size: 2em;
     padding: 1.5rem;
@@ -37,7 +69,10 @@
     border-radius: 10px;
     width: auto;
     position: relative;
-    min-width: 250px;
+    min-width: 50%;
+    margin-top: .2em;
+    margin-left: 25%;
+
 }
 
 #fulltext{
@@ -268,7 +303,8 @@ color: #aaa;
 }
 .ribbons {
 background: rgb(165, 156, 156);
-color: black;
+color: white;
+
 }
 
 .ribbonbtn {
@@ -362,8 +398,8 @@ display: block;
 }
 .sbtn{
     font-family: Hack, monospace;
-    background: #ebe7d9;
-    color: #2c2c2c;
+    background: #1f8dd6;
+    color: white;
     cursor: pointer;
     font-size: 2em;
     padding: 1.5rem;
@@ -371,13 +407,15 @@ display: block;
     transition: all 0.5s;
     border-radius: 10px;
     width: auto;
-    position: relative;
+    position: center;
     min-width: 250px;
+    /* max-width: 40%; */
+
 }
 .nbtn{
     font-family: Hack, monospace;
-    background: #ebe7d9;
-    color: #2c2c2c;
+    background: #1f8dd6;
+    color: white;
     cursor: pointer;
     font-size: 2em;
     padding: 1.5rem;
@@ -387,6 +425,8 @@ display: block;
     width: auto;
     position: relative;
     min-width: 250px;
+    /* max-width: 40%; */
+
 }
 
 /* Style the header */
