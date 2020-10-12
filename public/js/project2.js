@@ -1,13 +1,18 @@
 // Switching or updating the data attribute of the div containing the new workout
 $(".nbtn").on("click", function (event) {
     event.preventDefault();
-    
+
     // Showing the newWorkoutDiv and hiding the savedWorkoutDiv
     $("#newWorkoutDiv").show();
     $("#savedWorkoutDiv").hide();
-    
+
     // Calling the scrollToElement function
     scrollToElement("#newWorkoutDiv");
+
+    // Emptying the collectedExercises array
+    collectedExercises = [];
+    // Emptying the content of the fullWorkoutDisplay div
+    $("#fullWorkoutDisplay").empty();
 })
 
 // scrollToElement function
@@ -26,7 +31,7 @@ function scrollToElement(selector, callback) {
 // Switching or updating the data attribute of the div containing the saved workout
 $(".sbtn").on("click", function (event) {
     event.preventDefault();
-   
+
     // Showing the savedWorkoutDiv and hiding the newWorkoutDiv
     $("#newWorkoutDiv").hide();
     $("#savedWorkoutDiv").show();
@@ -54,7 +59,6 @@ $("#indoorOutdoorSelect").change(function (event) {
 
     // Get the value from the indoorOutdoor dropdown
     indoorOutdoorVar = document.getElementById("indoorOutdoorSelect").value
-
 
     // retrieve google api link without the query parameter
     var mapLink = $('#map').attr('src');
@@ -91,6 +95,7 @@ $("#categorySelect").change(function (event) {
 // Goes into the database and gets exercises based on user selected dropdown values
 function gettingTheExercises() {
 
+    // Building an object to pass as the AJAX call is made
     var selectionData = {
         location: indoorOutdoorVar,
         category: categoryVar
@@ -164,41 +169,88 @@ function gettingTheExercises() {
 
             // Showing the div, now that everything is displayed
             $("#exerciseDisplay").show();
+        }
+    });
+}
 
-            // $.ajax({
-            //     method: "GET",
-            //     url: "/api/exDisplay",
-            //     data: miniObjectOfObjects // need to pass an object
-            // })
-            // .then(function () {
-            //     console.log("Get made")
-            // })
+// Initializing an empty array, which will contain the collectedExercises
+// (These will eventually comprise a single workout)
+// (This array also gets emptied when the "New Workout Button" gets pushed)
+var collectedExercises = [];
 
+// jquery's .on() method DOES NOT bind to future elements by default...
+// This code binds the click event to FUTURE elements that are added
+// to the DOM with a class of “generatedExercise”
+// Sourced from: http://clarkeulmer.com/bind-events-to-future-elements-using-jquerys-on/
+$(document).on("click", ".generatedExercise", function (event) {
+    event.preventDefault();
+
+    // Getting the data-attribute of exerciseID from the button clicked
+    var exerciseID = $(this).attr("data-exerciseID");
+
+    // Adding the ID of the exercise to the collectedExercises array
+    collectedExercises.push(exerciseID);
+
+    // Running the showTheCollectedExercises function
+    showTheCollectedExercises();
+})
+
+// Function to generate a card containing the entire workout
+function showTheCollectedExercises() {
+
+    // Emptying the content of the fullWorkoutDisplay div
+    $("#fullWorkoutDisplay").empty();
+
+    // Building a single new card for all the exercises
+    var newWorkoutCard = $("<div>");
+    newWorkoutCard.addClass("card");
+
+    // Going through all the values in the collectedExercises array
+    for (var k = 0; k < collectedExercises.length; k++) {
+
+        // Building an object to pass as the AJAX call is made
+        var selectionData = {
+            id: collectedExercises[k]
         }
 
-    });
+        // Making an AJAX call
+        // Using the GET method
+        // Passing the selectionData
+        $.ajax({
+            method: "GET",
+            url: "/api/workoutList",
+            data: selectionData
+        }).then(function (response) {
+            // Running a callback function with the response (where response
+            // consists of all the exercises that met the selectionData criteria
+            // that we passed to the ajax call)
+
+            // Building the individualExercise with the response            
+            var individualExercise = $("<p>")
+            var initialNewText = "Category: "
+            var fullNewText = initialNewText.concat(response[0].category, " ---- Exercise: ", response[0].exercise)
+            individualExercise.append(fullNewText)
+            // Appending the individualExercise
+            newWorkoutCard.append(individualExercise)
+        });
+    }
+
+    // Appending that single new card to the fullWorkoutDisplay div
+    $("#fullWorkoutDisplay").append(newWorkoutCard);
 }
 
 
 
 
 
-// jquery's .on() method DOES NOT bind to future elements by default...
-// This code binds the click event to FUTURE elements that are added
-// to the DOM with a class of “generatedExercise”
-// Sourced from: http://clarkeulmer.com/bind-events-to-future-elements-using-jquerys-on/
-$(document).on("click",".generatedExercise",function(){
-    var exerciseID = $(this).attr("data-exerciseID")
-
-    alert(exerciseID);
-
-
-
-    // CONTINUE FROM HERE
-
-
-    
-
-})
-
-
+// -------------------------------------------------
+// WHEN THE SAVE BUTTON IS PUSHED
+// Use the collectedExercises array
+// Created a JSON object
+// Gets info from a manually entered name box
+// Post this to the database
+// Store it with the followign:
+// - UserID (or username)
+// - WorkoutID (automatically generated)
+// - Workout name (manually input)
+// - JSON object, containing one key, and the value is the collectedExercises array
