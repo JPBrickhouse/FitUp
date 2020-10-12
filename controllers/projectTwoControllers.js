@@ -21,7 +21,7 @@ module.exports = function (app) {
         })
     })
     // ---------------------------------------------------------------------------
-    // Get all the exercises based on ID
+    // Get all the grouped exercises (as one workout) based on ID
     app.get("/api/workoutList", function (req, res) {
         // Using sequelize
         db.Exercise.findAll({
@@ -33,7 +33,7 @@ module.exports = function (app) {
         })
     })
     // ---------------------------------------------------------------------------
-    // Store the grouped exercises as a workout
+    // Store all the grouped exercises as one workout
     app.post("/api/saveworkout", function (req, res) {
         // Using sequelize
         db.Storedworkout.create({
@@ -44,6 +44,18 @@ module.exports = function (app) {
             res.status(200)
         }).catch(err => {
             res.status(401).json(err);
+        });
+    })
+    // ---------------------------------------------------------------------------
+    // Get all of the users saved workouts
+    app.get("/api/getfullworkouts", function (req, res) {
+        // Using sequelize
+        db.Storedworkout.findAll({
+            where: {
+                userid: req.query.userid
+            }
+        }).then(function (workouts) {
+            res.send(workouts)
         });
     })
     // ---------------------------------------------------------------------------

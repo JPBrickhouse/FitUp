@@ -211,13 +211,13 @@ function showTheCollectedExercises() {
             // consists of all the exercises that met the selectionData criteria
             // that we passed to the ajax call)
 
-            // Building the individualExercise with the response            
-            var individualExercise = $("<p>")
-            var initialNewText = "Category: "
-            var fullNewText = initialNewText.concat(response[0].category, " ---- Exercise: ", response[0].exercise)
-            individualExercise.append(fullNewText)
+            // Building the individualExercise with the response
+            var individualExercise = $("<p>");
+            var initialNewText = "Category: ";
+            var fullNewText = initialNewText.concat(response[0].category, " ---- Exercise: ", response[0].exercise);
+            individualExercise.append(fullNewText);
             // Appending the individualExercise
-            newWorkoutCard.append(individualExercise)
+            newWorkoutCard.append(individualExercise);
         });
     }
 
@@ -233,8 +233,8 @@ $("#savebtn").on("click", async function () {
 
     // Building an object to pass as the AJAX call is made
     var userAndWorkout = {
-        userid: data.id, // the user's id, obtained from the ajax call get
-        email: data.email, // the user's email, obtained from the ajax call get
+        userid: data.id,
+        email: data.email,
         workout: {
             workout: collectedExercises
         }
@@ -244,15 +244,15 @@ $("#savebtn").on("click", async function () {
     // Using the POST method
     // Passing the userAndWorkout
     $.ajax({
+        async: true,
         method: "POST",
         url: "/api/saveworkout",
         data: userAndWorkout
-    }).then(() => {
-
+    }).then(function (response) {
+        console.log(response);
 
 
         // CONTINUE FROM HERE
-
         // AFTER THE POST IS SUCCESSFUL, DO THE FOLLOWING:
         // - Let the user know that the workout was saved successfully
         // - Empty the collectedExercises array
@@ -260,14 +260,86 @@ $("#savebtn").on("click", async function () {
         // - Empty the fullWorkoutDisplay div
         // - Direct them to scroll back up and start again!
 
-
-    })
+        
+    });
 });
 // ---------------------------------------------------------------------------
+// Getting all the user's saved workouts from the database
+$(".sbtn").on("click", async function () {
 
-// CONTINUE FROM HERE TOO
+    // Empty all the cards
+    $("#savedDisplay").empty()
 
-// WHEN THE SAVED WORKOUT BUTTON IS PUSHED
-// - Go into the database with an ajax call
-// - Use the userid to find the associated saved workouts
-// - Parse through the data and display the saved workouts
+    // Making an AJAX call to get the user's information
+    const data = await $.get("/api/user_data")
+
+    // Building an object to pass as the AJAX call is made
+    var userdata = {
+        userid: data.id, // the user's id, obtained from the ajax call get
+    }
+
+    // Making an AJAX call
+    // Using the GET method
+    // Passing the userdata
+    $.ajax({
+        async: true,
+        method: "GET",
+        url: "/api/getfullworkouts",
+        data: userdata
+    }).then(function (response) {
+        // Running a callback function with the response (where response
+        // consists of all the stored workouts that are associated with
+        // the userdata that we passed to the ajax call)
+
+        // Creating a new div to hold all the workout cards
+        var workoutsDiv = $("<div>");
+
+        // Going through each element of the response
+        response.forEach(element => {
+
+            // Building a new workout card
+            var eachWorkoutCard = $("<div>");
+            eachWorkoutCard.addClass("card");
+            eachWorkoutCard.addClass("storedWorkoutRecalled");
+
+            // Going through the array that contains all the workout ids
+            var arrayOfExercises = element.workout.workout
+            for (var x = 0; x < arrayOfExercises.length; x++) {
+                // Getting the workout id
+                var currentExeriseID = arrayOfExercises[x]
+
+                var selectionData = {
+                    id: currentExeriseID
+                }
+
+                // Making an AJAX call
+                // Using the GET method
+                // Passing the selectionData
+                $.ajax({
+                    async: true,
+                    method: "GET",
+                    url: "/api/workoutList",
+                    data: selectionData
+                }).then(function (response) {
+                    // Running a callback function with the response (where response
+                    // consists of all the exercises that met the selectionData criteria
+                    // that we passed to the ajax call)
+                    
+                    // Building the individualExercise with the response
+                    var individualExercise = $("<p>");
+                    var initialNewText = "Category: ";
+                    var fullNewText = initialNewText.concat(response[0].category, " ---- Exercise: ", response[0].exercise);
+                    individualExercise.append(fullNewText);
+                    // Appending the individual exercises to the workout card
+                    eachWorkoutCard.append(individualExercise)
+                })
+            }
+            // Appending eachWorkoutCard to the div
+            workoutsDiv.append(eachWorkoutCard)
+            // Appending workoutDiv to the page at the location with id="savedDisplay"
+            $("#savedDisplay").append(workoutsDiv)
+        });
+
+        // - Parse through the data and display the saved workouts
+    });
+});
