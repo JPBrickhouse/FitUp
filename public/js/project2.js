@@ -1,3 +1,4 @@
+// ---------------------------------------------------------------------------
 // Switching or updating the data attribute of the div containing the new workout
 $(".nbtn").on("click", function (event) {
     event.preventDefault();
@@ -14,7 +15,7 @@ $(".nbtn").on("click", function (event) {
     // Emptying the content of the fullWorkoutDisplay div
     $("#fullWorkoutDisplay").empty();
 })
-
+// ---------------------------------------------------------------------------
 // scrollToElement function
 // After a user selects new or saved workout
 // The page that dynamically moves the user to a specific location
@@ -27,7 +28,7 @@ function scrollToElement(selector, callback) {
         callback = null;
     });
 }
-
+// ---------------------------------------------------------------------------
 // Switching or updating the data attribute of the div containing the saved workout
 $(".sbtn").on("click", function (event) {
     event.preventDefault();
@@ -40,20 +41,11 @@ $(".sbtn").on("click", function (event) {
     // Calling the scrollToElement function
     scrollToElement("#savedWorkoutDiv");
 })
-
 // ---------------------------------------------------------------------------
-
-// Saved workout routed to list 
-$("#savebtn").on("click", function () {
-    alert("Hi");
-});
-
-// ---------------------------------------------------------------------------
-
 // Making the variables global for use in the functions
 var indoorOutdoorVar = 0;
 var categoryVar = 0;
-
+// ---------------------------------------------------------------------------
 // Event listener for when the indoorOutdoor dropdown is selected
 $("#indoorOutdoorSelect").change(function (event) {
     event.preventDefault();
@@ -76,7 +68,7 @@ $("#indoorOutdoorSelect").change(function (event) {
         gettingTheExercises()
     }
 })
-
+// ---------------------------------------------------------------------------
 // Event listener for when the categorySelect dropdown is selected
 $("#categorySelect").change(function (event) {
     event.preventDefault();
@@ -91,7 +83,7 @@ $("#categorySelect").change(function (event) {
         gettingTheExercises()
     }
 })
-
+// ---------------------------------------------------------------------------
 // gettingTheExercises function
 // Goes into the database and gets exercises based on user selected dropdown values
 function gettingTheExercises() {
@@ -129,23 +121,15 @@ function gettingTheExercises() {
             var maxLoopLength = Math.min(exerciseCount, 10)
 
             var miniArrayOfExercises = []
-            // var miniObjectOfObjects = {}
 
             // Looping through the responses and getting a random selection
             for (var i = 0; i < maxLoopLength; i++) {
                 // Geting a random number from 0 to (exerciseCount - 1)
                 var randomIndex = Math.floor((Math.random() * exerciseCount));
                 miniArrayOfExercises.push(response[randomIndex])
-
-                // var exerciseID = response[randomIndex].id;
-                // miniObjectOfObjects[exerciseID] = response[randomIndex]
             }
 
-            console.log(miniArrayOfExercises);
-            // console.log(miniObjectOfObjects);
-
             // GENERATE THE EXERCISE CARDS
-
             // Empty all the cards
             $("#exerciseDisplay").empty();
 
@@ -173,12 +157,12 @@ function gettingTheExercises() {
         }
     });
 }
-
+// ---------------------------------------------------------------------------
 // Initializing an empty array, which will contain the collectedExercises
 // (These will eventually comprise a single workout)
 // (This array also gets emptied when the "New Workout Button" gets pushed)
 var collectedExercises = [];
-
+// ---------------------------------------------------------------------------
 // jquery's .on() method DOES NOT bind to future elements by default...
 // This code binds the click event to FUTURE elements that are added
 // to the DOM with a class of “generatedExercise”
@@ -195,7 +179,7 @@ $(document).on("click", ".generatedExercise", function (event) {
     // Running the showTheCollectedExercises function
     showTheCollectedExercises();
 })
-
+// ---------------------------------------------------------------------------
 // Function to generate a card containing the entire workout
 function showTheCollectedExercises() {
 
@@ -240,19 +224,50 @@ function showTheCollectedExercises() {
     // Appending that single new card to the fullWorkoutDisplay div
     $("#fullWorkoutDisplay").append(newWorkoutCard);
 }
+// ---------------------------------------------------------------------------
+// Saved workout routed to list 
+$("#savebtn").on("click", async function () {
+
+    // Making an AJAX call to get the user's information
+    const data = await $.get("/api/user_data")
+
+    // Building an object to pass as the AJAX call is made
+    var userAndWorkout = {
+        userid: data.id, // the user's id, obtained from the ajax call get
+        email: data.email, // the user's email, obtained from the ajax call get
+        workout: {
+            workout: collectedExercises
+        }
+    }
+
+    // Making an AJAX call
+    // Using the POST method
+    // Passing the userAndWorkout
+    $.ajax({
+        method: "POST",
+        url: "/api/saveworkout",
+        data: userAndWorkout
+    }).then(() => {
 
 
 
+        // CONTINUE FROM HERE
+
+        // AFTER THE POST IS SUCCESSFUL, DO THE FOLLOWING:
+        // - Let the user know that the workout was saved successfully
+        // - Empty the collectedExercises array
+        // - Empty the exercisesDisplay div
+        // - Empty the fullWorkoutDisplay div
+        // - Direct them to scroll back up and start again!
 
 
-// -------------------------------------------------
-// WHEN THE SAVE BUTTON IS PUSHED
-// Use the collectedExercises array
-// Created a JSON object
-// Gets info from a manually entered name box
-// Post this to the database
-// Store it with the followign:
-// - UserID (or username)
-// - WorkoutID (automatically generated)
-// - Workout name (manually input)
-// - JSON object, containing one key, and the value is the collectedExercises array
+    })
+});
+// ---------------------------------------------------------------------------
+
+// CONTINUE FROM HERE TOO
+
+// WHEN THE SAVED WORKOUT BUTTON IS PUSHED
+// - Go into the database with an ajax call
+// - Use the userid to find the associated saved workouts
+// - Parse through the data and display the saved workouts

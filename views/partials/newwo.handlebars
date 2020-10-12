@@ -66,14 +66,12 @@
     </form>
     </div>
 
-
-
 </div> --}}
 
 <div class="ribbons l-box-lrg pure-g">
     <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5 text-center">
 
-        {{!-- Place where the full workout will be displayed,
+        {{!-- Place where a menu of exercises will be displayed,
         based on what the user displays and then saves --}}
         <h2 id="fulltext" class="content-head content-head-ribbon">Exercises to choose from</h2>
 
@@ -84,11 +82,6 @@
             {{!-- Div that will display a selection of exercises if any are found --}}
             <div id="exerciseDisplay" class="text-align"></div>
         </div>
-
-        {{!-- ------------------------------------------ --}}
-        {{!-- REVISE THIS BUTTON LOCATION --}}
-        <button id="savebtn" type="button">Save Workout</button>
-        {{!-- ------------------------------------------ --}}
 
     </div>
 </div>
@@ -105,16 +98,11 @@
         based on what the user displays and then saves --}}
         <h2 id="fulltext" class="content-head content-head-ribbon">Built Workout!</h2>
 
+        {{!-- Div that will display the full workout the user is building --}}
         <div>
             <div id="fullWorkoutDisplay"></div>
         </div>
 
-        {{!-- ------------------------------------------ --}}
-        {{!-- ALL THE STORED EXERCISES GO HERE --}}
-        {{!-- ------------------------------------------ --}}
-        {{!-- SAVE WORKOUT BUTTON GOES HERE --}}
-        {{!-- ------------------------------------------ --}}
-
-
+        <button id="savebtn" type="button">Save Workout</button>
     </div>
 </div>
