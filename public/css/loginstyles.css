@@ -27,12 +27,12 @@ form.login {
   border: none;
 }
 
-#loginBody a, #loginBody label {
+#loginBody a, #loginBody label, #signupBody label, #signupBody a {
   color: #1f8dd6;
   font-weight: 550;
 }
 
-#loginBody button {
+#loginBody button, #signupBody button {
   color: #1f8dd6;
   background-color: #2d3e50;
   border: none;
@@ -56,35 +56,11 @@ form.login {
   margin-bottom: 0;
 }
 
-#loginBody .col-md-5 {
+#loginBody .col-md-5, #signupBody .col-md-5  {
   background-image: linear-gradient(rgb(147, 157, 177, 0.01), #a8c5e4, rgb(147, 157, 177, 0.01));
   border: #2d3e50;
   margin-left: 1em;
 }
-
-#signupBody .col-md-5 {
-  background-image: linear-gradient(rgb(147, 157, 177, 0.01), #a8c5e4, rgb(147, 157, 177, 0.01));
-  border: #2d3e50;
-  margin-left: 1em;
-}
-
- #signupBody label {
-  color: #1f8dd6;
-  font-weight: 550;
-}
-
-#signupBody button {
-  color: #1f8dd6;
-  background-color: #2d3e50;
-  font-weight: 700;
-  border: none;
-}
-#signupBody a {
-  color: #1f8dd6;
-  font-weight: 700;
-  border: none;
-}
-
 
 @media only screen and (max-width: 900px) {
   #signupBody, #loginBody {
