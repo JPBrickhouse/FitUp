@@ -58,4 +58,16 @@ module.exports = function (app) {
         });
     })
     // ---------------------------------------------------------------------------
+    app.delete("/api/deleteWorkout", function (req, res) {
+        // Using sequelize
+        db.Storedworkout.destroy({
+            where: {
+                workoutid: req.body.workoutid
+            }
+        }).then(() => {
+            res.status(200)
+        }).catch(err => {
+            res.status(401).json(err);
+        });
+    })
 }
