@@ -248,20 +248,22 @@ $("#savebtn").on("click", async function () {
         method: "POST",
         url: "/api/saveworkout",
         data: userAndWorkout
-    }).then(function (response) {
-        console.log(response);
+    })
 
+    // After the post is successful, do the following things:
+    // Empty the various divs
+    $("#exerciseDisplay").empty();
+    $("#fullWorkoutDisplay").empty();
 
-        // CONTINUE FROM HERE
-        // AFTER THE POST IS SUCCESSFUL, DO THE FOLLOWING:
-        // - Let the user know that the workout was saved successfully
-        // - Empty the collectedExercises array
-        // - Empty the exercisesDisplay div
-        // - Empty the fullWorkoutDisplay div
-        // - Direct them to scroll back up and start again!
+    // Emptying the collectedExercises array
+    collectedExercises = [];
 
-        
-    });
+    // Post a message to the user
+    var saveMessage = $("<div>");
+    var messageContent = $("<h1>")
+    messageContent.text("Workout successfully saved!")
+    saveMessage.append(messageContent)
+    $("#fullWorkoutDisplay").append(saveMessage)
 });
 // ---------------------------------------------------------------------------
 // Getting all the user's saved workouts from the database
@@ -324,7 +326,7 @@ $(".sbtn").on("click", async function () {
                     // Running a callback function with the response (where response
                     // consists of all the exercises that met the selectionData criteria
                     // that we passed to the ajax call)
-                    
+
                     // Building the individualExercise with the response
                     var individualExercise = $("<p>");
                     var initialNewText = "Category: ";
@@ -339,7 +341,5 @@ $(".sbtn").on("click", async function () {
             // Appending workoutDiv to the page at the location with id="savedDisplay"
             $("#savedDisplay").append(workoutsDiv)
         });
-
-        // - Parse through the data and display the saved workouts
     });
 });
