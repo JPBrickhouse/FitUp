@@ -6,7 +6,6 @@ module.exports = function (app) {
     // ---------------------------------------------------------------------------
     // Get all of the exercises that match the location and category
     app.get("/api/exerciselist", function (req, res) {
-
         // Using sequelize
         db.Exercise.findAll({
             where: {
@@ -59,4 +58,16 @@ module.exports = function (app) {
         });
     })
     // ---------------------------------------------------------------------------
+    app.delete("/api/deleteWorkout", function (req, res) {
+        // Using sequelize
+        db.Storedworkout.destroy({
+            where: {
+                workoutid: req.body.workoutid
+            }
+        }).then(() => {
+            res.status(200)
+        }).catch(err => {
+            res.status(401).json(err);
+        });
+    })
 }

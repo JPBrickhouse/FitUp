@@ -297,14 +297,6 @@ background: white;
 padding: 1em 1em 3em;
 }
 
-/* This is the class used for the main content headers (<h2>) */
-.content-head {
-font-weight: 400;
-text-transform: uppercase;
-letter-spacing: 0.1em;
-margin: 2em 0 1em;
-}
-
 /* This is a modifier class used when the content-head is inside a ribbon */
 .content-head-ribbon {
 color: white;
@@ -533,8 +525,10 @@ display: block;
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .content-wrapper{
+
         width: fit-content;
         height: fit-content;
+
     }
     .splash-container {
         background-image: url(../img/tallUrchin.jpeg);
@@ -557,6 +551,9 @@ display: block;
     #map {
         max-height: 90%;
         max-width: 95%;
+
     }
+
+
 } 
 
