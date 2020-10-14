@@ -519,7 +519,7 @@ display: block;
     padding: 0.5em;
 }
 .storedWorkoutRecalled {
-    color: white;
+    color: rgb(12, 12, 12);
     font-family: 'Quicksand', sans-serif;
     font-size: 180%;
     font-weight: 550;
