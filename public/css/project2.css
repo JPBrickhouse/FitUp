@@ -25,20 +25,24 @@ body, html {
     color: white;
     border: none;
     text-align: center;
-    margin: .3em;
+
+    /* max-width: 250px; */
+    margin: .5em;
     font-weight: 500;
+    padding: 10px;
     font-family: 'Quicksand', sans-serif;
+
 }
 .generatedExercise {
     margin-left: 10%;
-    margin-top: .5em;
+    margin-top: .8em;
     width: auto;
     max-width: 80%;
     align-items: center;
     background-color: white;
     color: #2d3e50;
     text-align: center;
-    font-size: 130%;
+    font-size: 160%;
     font-weight: 600;
     text-transform: capitalize;
     font-family: 'Quicksand', sans-serif;
@@ -502,13 +506,6 @@ display: block;
     clear: both;
 }
 
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-/* @media screen and (max-width:600px) {
-    .column {
-        width: 100%;
-    }
-    
-} */
 .fullWorkoutDisplay {
     color: #2d3e50;
 }
@@ -536,6 +533,37 @@ display: block;
     border-width: .15em;
     background-color: rgb(31,141,214);
 }
+
+
+.grid-container{
+    
+    display: grid;
+    grid-template-columns: auto;
+    background-color: #2196F3;
+    padding: 10px;
+
+}
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.deleteWorkout{
+    padding: 2vh;
+    margin: 20px;
+}
+
+#savedDisplay{
+    background-color: rgb(23, 35, 71);
+    padding: 20px;
+}
+
+
+
+
 .deleteWorkout {
    margin-bottom: .5em;
    max-width: 400px;

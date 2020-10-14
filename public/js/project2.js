@@ -312,6 +312,7 @@ async function recallTheSavedWorkouts() {
             // Building a new workout card
             var eachWorkoutCard = $("<div>");
             eachWorkoutCard.addClass("card");
+            eachWorkoutCard.addClass("grid-item");
             eachWorkoutCard.addClass("storedWorkoutRecalled");
             eachWorkoutCard.attr("data-workoutID", element.workoutid);
 
